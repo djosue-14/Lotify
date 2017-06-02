@@ -1,0 +1,54 @@
+﻿@model IList<Lotify.Models.Empleados.CargoEmpleado>
+
+
+<div ng-controller="CargoEmpleadoController">
+
+    <div class="content-grid mdl-grid">
+
+        <div class="mdl-cell mdl-cell--3-col"></div>
+
+        <div class="mdl-cell mdl-cell--6-col" ng-hide="mostrar">
+            <table id="lotifyTable" class="mdl-data-table mdl-shadow--2dp" cellspacing="0" width="100%" datatable="ng">
+                <thead>
+                    <tr>
+                        <th>NOMBRE DEL CARGO</th>
+                        <th>SUELDO</th>
+                        <th>ACCIONES</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr ng-repeat="r in resultados">
+                        <td>{{r.NombreCargo}}</td>
+                        <td>{{r.Sueldo}}</td>
+                        <td>
+                            <button class="mdl-button mdl-button--icon" id="abrir-dialog" ng-click="selectElementDelete(r.Id)">
+                                <i class="material-icons">delete</i>
+                            </button>
+                            <a href="@Url.Action("Edit", "CargoEmpleado")/{{r.Id}}" class="mdl-button mdl-button--icon">
+                                <i class="material-icons">mode_edit</i>
+                            </a>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
+        <div class="mdl-cell mdl-cell--3-col"></div>
+
+    </div>
+
+
+    <dialog class="mdl-dialog">
+        <h5 class="mdl-dialog__title">Deseas Eliminar El Registro?</h5>
+        <div class="mdl-dialog__actions">
+            <button type="button" class="mdl-button siEliminar" ng-click="delete()">Si</button>
+            <button type="button" class="mdl-button noEliminar" ng-init="datos.Id = '' ">No</button>
+        </div>
+    </dialog>
+
+</div>
+
+@section Scripts {
+    <script src="~/Scripts/app/controllers/Empleados/CargoEmpleadoController.js"></script>
+}
+

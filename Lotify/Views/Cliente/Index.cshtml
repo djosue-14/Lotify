@@ -1,0 +1,66 @@
+﻿@model IList<Lotify.Models.Clientes.Cliente>
+
+<div ng-controller="ClienteController">
+
+    <div class="content-grid mdl-grid">
+
+        <div class="mdl-cell mdl-cell--2-col"></div>
+
+        <div class="mdl-cell mdl-cell--8-col" ng-hide="mostrar">
+            <table id="lotifyTable" class="mdl-data-table mdl-shadow--2dp" cellspacing="0" width="100%" datatable="ng">
+                <thead>
+                    <tr>
+                        <th>NOMBRE</th>
+                        <th>DPI</th>
+                        <th>GENERO</th>
+                        <th>DIRECCION</th>
+                        <th>FECHA NACIMIENTO</th>
+                        <th>ACCIONES</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr ng-repeat="r in resultados">
+                        <td>{{r.Nombre + " " + r.Apellido}}</td>
+                        <td>{{r.Dpi}}</td>
+                        <td>{{r.Genero}}</td>
+                        <td>{{r.Direccion}}</td>
+                        <td>{{r.FechaNacimiento | date: 'dd/MM/yyyy' }}</td>
+                        <td>
+                            <button class="mdl-button mdl-button--icon" id="abrir-dialog" ng-click="selectElementDelete(r.Id)">
+                                <i class="material-icons">delete</i>
+                            </button>
+                            <a href="@Url.Action("Edit", "Cliente")/{{r.Id}}" class="mdl-button mdl-button--icon">
+                                <i class="material-icons">mode_edit</i>
+                            </a>
+                            <a href="@Url.Action("EditTel", "Cliente")/{{r.Id}}" class="mdl-button mdl-button--icon">
+                                <i class="material-icons">settings_phone</i>
+                            </a>
+
+                            <a href="@Url.Action("Create", "Venta")" class="mdl-button mdl-button--icon" ng-click="compartir(r.Id)">
+                                <i class="material-icons">check</i>
+                            </a>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
+        <div class="mdl-cell mdl-cell--2-col"></div>
+
+    </div>
+
+
+    <dialog class="mdl-dialog">
+        <h5 class="mdl-dialog__title">Deseas Eliminar El Registro?</h5>
+        <div class="mdl-dialog__actions">
+            <button type="button" class="mdl-button siEliminar" ng-click="delete()">Si</button>
+            <button type="button" class="mdl-button noEliminar" ng-init="datos.Id = '' ">No</button>
+        </div>
+    </dialog>
+
+</div>
+
+@section Scripts {
+    <script src="~/Scripts/app/controllers/Clientes/ClienteController.js"></script>
+}
+

@@ -1,0 +1,827 @@
+c:\users\djosuhe\documents\visual studio 2015\Projects\Lotify\Lotify\obj\Debug\Lotify.csprojResolveAssemblyReference.cache
+c:\users\djosuhe\documents\visual studio 2015\Projects\Lotify\Lotify\bin\roslyn\csc.exe
+c:\users\djosuhe\documents\visual studio 2015\Projects\Lotify\Lotify\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\djosuhe\documents\visual studio 2015\Projects\Lotify\Lotify\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\djosuhe\documents\visual studio 2015\Projects\Lotify\Lotify\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\djosuhe\documents\visual studio 2015\Projects\Lotify\Lotify\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\djosuhe\documents\visual studio 2015\Projects\Lotify\Lotify\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\djosuhe\documents\visual studio 2015\Projects\Lotify\Lotify\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\djosuhe\documents\visual studio 2015\Projects\Lotify\Lotify\bin\roslyn\System.Collections.Immutable.dll
+c:\users\djosuhe\documents\visual studio 2015\Projects\Lotify\Lotify\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\djosuhe\documents\visual studio 2015\Projects\Lotify\Lotify\bin\roslyn\vbc.exe
+c:\users\djosuhe\documents\visual studio 2015\Projects\Lotify\Lotify\bin\roslyn\VBCSCompiler.exe
+c:\users\djosuhe\documents\visual studio 2015\Projects\Lotify\Lotify\bin\roslyn\VBCSCompiler.exe.config
+c:\users\djosuhe\documents\visual studio 2015\Projects\Lotify\Lotify\bin\Lotify.dll.config
+c:\users\djosuhe\documents\visual studio 2015\Projects\Lotify\Lotify\bin\Lotify.dll
+c:\users\djosuhe\documents\visual studio 2015\Projects\Lotify\Lotify\bin\Lotify.pdb
+c:\users\djosuhe\documents\visual studio 2015\Projects\Lotify\Lotify\bin\Antlr3.Runtime.dll
+c:\users\djosuhe\documents\visual studio 2015\Projects\Lotify\Lotify\bin\EntityFramework.dll
+c:\users\djosuhe\documents\visual studio 2015\Projects\Lotify\Lotify\bin\EntityFramework.SqlServer.dll
+c:\users\djosuhe\documents\visual studio 2015\Projects\Lotify\Lotify\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\djosuhe\documents\visual studio 2015\Projects\Lotify\Lotify\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\djosuhe\documents\visual studio 2015\Projects\Lotify\Lotify\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\djosuhe\documents\visual studio 2015\Projects\Lotify\Lotify\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\djosuhe\documents\visual studio 2015\Projects\Lotify\Lotify\bin\Microsoft.Owin.dll
+c:\users\djosuhe\documents\visual studio 2015\Projects\Lotify\Lotify\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\djosuhe\documents\visual studio 2015\Projects\Lotify\Lotify\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\djosuhe\documents\visual studio 2015\Projects\Lotify\Lotify\bin\Microsoft.Owin.Security.dll
+c:\users\djosuhe\documents\visual studio 2015\Projects\Lotify\Lotify\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\djosuhe\documents\visual studio 2015\Projects\Lotify\Lotify\bin\Microsoft.Owin.Security.Google.dll
+c:\users\djosuhe\documents\visual studio 2015\Projects\Lotify\Lotify\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\djosuhe\documents\visual studio 2015\Projects\Lotify\Lotify\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\djosuhe\documents\visual studio 2015\Projects\Lotify\Lotify\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\djosuhe\documents\visual studio 2015\Projects\Lotify\Lotify\bin\Microsoft.Web.Infrastructure.dll
+c:\users\djosuhe\documents\visual studio 2015\Projects\Lotify\Lotify\bin\MySql.Data.dll
+c:\users\djosuhe\documents\visual studio 2015\Projects\Lotify\Lotify\bin\MySql.Data.Entity.EF6.dll
+c:\users\djosuhe\documents\visual studio 2015\Projects\Lotify\Lotify\bin\Newtonsoft.Json.dll
+c:\users\djosuhe\documents\visual studio 2015\Projects\Lotify\Lotify\bin\Owin.dll
+c:\users\djosuhe\documents\visual studio 2015\Projects\Lotify\Lotify\bin\System.Web.Helpers.dll
+c:\users\djosuhe\documents\visual studio 2015\Projects\Lotify\Lotify\bin\System.Web.Mvc.dll
+c:\users\djosuhe\documents\visual studio 2015\Projects\Lotify\Lotify\bin\System.Web.Optimization.dll
+c:\users\djosuhe\documents\visual studio 2015\Projects\Lotify\Lotify\bin\System.Web.Razor.dll
+c:\users\djosuhe\documents\visual studio 2015\Projects\Lotify\Lotify\bin\System.Web.WebPages.Deployment.dll
+c:\users\djosuhe\documents\visual studio 2015\Projects\Lotify\Lotify\bin\System.Web.WebPages.dll
+c:\users\djosuhe\documents\visual studio 2015\Projects\Lotify\Lotify\bin\System.Web.WebPages.Razor.dll
+c:\users\djosuhe\documents\visual studio 2015\Projects\Lotify\Lotify\bin\WebGrease.dll
+c:\users\djosuhe\documents\visual studio 2015\Projects\Lotify\Lotify\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\djosuhe\documents\visual studio 2015\Projects\Lotify\Lotify\bin\System.Web.Helpers.xml
+c:\users\djosuhe\documents\visual studio 2015\Projects\Lotify\Lotify\bin\System.Web.Mvc.xml
+c:\users\djosuhe\documents\visual studio 2015\Projects\Lotify\Lotify\bin\System.Web.Optimization.xml
+c:\users\djosuhe\documents\visual studio 2015\Projects\Lotify\Lotify\bin\System.Web.Razor.xml
+c:\users\djosuhe\documents\visual studio 2015\Projects\Lotify\Lotify\bin\System.Web.WebPages.xml
+c:\users\djosuhe\documents\visual studio 2015\Projects\Lotify\Lotify\bin\System.Web.WebPages.Deployment.xml
+c:\users\djosuhe\documents\visual studio 2015\Projects\Lotify\Lotify\bin\System.Web.WebPages.Razor.xml
+c:\users\djosuhe\documents\visual studio 2015\Projects\Lotify\Lotify\bin\Antlr3.Runtime.pdb
+c:\users\djosuhe\documents\visual studio 2015\Projects\Lotify\Lotify\bin\Newtonsoft.Json.xml
+c:\users\djosuhe\documents\visual studio 2015\Projects\Lotify\Lotify\bin\EntityFramework.xml
+c:\users\djosuhe\documents\visual studio 2015\Projects\Lotify\Lotify\bin\EntityFramework.SqlServer.xml
+c:\users\djosuhe\documents\visual studio 2015\Projects\Lotify\Lotify\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\djosuhe\documents\visual studio 2015\Projects\Lotify\Lotify\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\djosuhe\documents\visual studio 2015\Projects\Lotify\Lotify\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\djosuhe\documents\visual studio 2015\Projects\Lotify\Lotify\bin\Microsoft.Owin.xml
+c:\users\djosuhe\documents\visual studio 2015\Projects\Lotify\Lotify\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\djosuhe\documents\visual studio 2015\Projects\Lotify\Lotify\bin\Microsoft.Owin.Security.xml
+c:\users\djosuhe\documents\visual studio 2015\Projects\Lotify\Lotify\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\djosuhe\documents\visual studio 2015\Projects\Lotify\Lotify\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\djosuhe\documents\visual studio 2015\Projects\Lotify\Lotify\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\djosuhe\documents\visual studio 2015\Projects\Lotify\Lotify\bin\Microsoft.Owin.Security.Google.xml
+c:\users\djosuhe\documents\visual studio 2015\Projects\Lotify\Lotify\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\djosuhe\documents\visual studio 2015\Projects\Lotify\Lotify\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\djosuhe\documents\visual studio 2015\Projects\Lotify\Lotify\bin\es\System.Web.Helpers.resources.dll
+c:\users\djosuhe\documents\visual studio 2015\Projects\Lotify\Lotify\bin\es\System.Web.Mvc.resources.dll
+c:\users\djosuhe\documents\visual studio 2015\Projects\Lotify\Lotify\bin\es\System.Web.Razor.resources.dll
+c:\users\djosuhe\documents\visual studio 2015\Projects\Lotify\Lotify\bin\es\System.Web.WebPages.resources.dll
+c:\users\djosuhe\documents\visual studio 2015\Projects\Lotify\Lotify\bin\es\System.Web.WebPages.Deployment.resources.dll
+c:\users\djosuhe\documents\visual studio 2015\Projects\Lotify\Lotify\bin\es\System.Web.WebPages.Razor.resources.dll
+c:\users\djosuhe\documents\visual studio 2015\Projects\Lotify\Lotify\bin\es\EntityFramework.resources.dll
+c:\users\djosuhe\documents\visual studio 2015\Projects\Lotify\Lotify\bin\es\EntityFramework.SqlServer.resources.dll
+c:\users\djosuhe\documents\visual studio 2015\Projects\Lotify\Lotify\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+c:\users\djosuhe\documents\visual studio 2015\Projects\Lotify\Lotify\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+c:\users\djosuhe\documents\visual studio 2015\Projects\Lotify\Lotify\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+c:\users\djosuhe\documents\visual studio 2015\Projects\Lotify\Lotify\bin\es\Microsoft.Owin.resources.dll
+c:\users\djosuhe\documents\visual studio 2015\Projects\Lotify\Lotify\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+c:\users\djosuhe\documents\visual studio 2015\Projects\Lotify\Lotify\bin\es\Microsoft.Owin.Security.resources.dll
+c:\users\djosuhe\documents\visual studio 2015\Projects\Lotify\Lotify\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+c:\users\djosuhe\documents\visual studio 2015\Projects\Lotify\Lotify\bin\es\Microsoft.Owin.Security.Google.resources.dll
+c:\users\djosuhe\documents\visual studio 2015\Projects\Lotify\Lotify\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+c:\users\djosuhe\documents\visual studio 2015\Projects\Lotify\Lotify\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+c:\users\djosuhe\documents\visual studio 2015\Projects\Lotify\Lotify\obj\Debug\Lotify.dll
+c:\users\djosuhe\documents\visual studio 2015\Projects\Lotify\Lotify\obj\Debug\Lotify.pdb
+C:\Users\DJosuHe\Desktop\lotify\Lotify\bin\roslyn\csc.exe
+C:\Users\DJosuHe\Desktop\lotify\Lotify\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DJosuHe\Desktop\lotify\Lotify\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DJosuHe\Desktop\lotify\Lotify\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DJosuHe\Desktop\lotify\Lotify\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DJosuHe\Desktop\lotify\Lotify\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DJosuHe\Desktop\lotify\Lotify\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DJosuHe\Desktop\lotify\Lotify\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DJosuHe\Desktop\lotify\Lotify\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DJosuHe\Desktop\lotify\Lotify\bin\roslyn\vbc.exe
+C:\Users\DJosuHe\Desktop\lotify\Lotify\bin\roslyn\VBCSCompiler.exe
+C:\Users\DJosuHe\Desktop\lotify\Lotify\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DJosuHe\Desktop\lotify\Lotify\bin\Lotify.dll.config
+C:\Users\DJosuHe\Desktop\lotify\Lotify\bin\Lotify.dll
+C:\Users\DJosuHe\Desktop\lotify\Lotify\bin\Lotify.pdb
+C:\Users\DJosuHe\Desktop\lotify\Lotify\bin\Antlr3.Runtime.dll
+C:\Users\DJosuHe\Desktop\lotify\Lotify\bin\EntityFramework.dll
+C:\Users\DJosuHe\Desktop\lotify\Lotify\bin\EntityFramework.SqlServer.dll
+C:\Users\DJosuHe\Desktop\lotify\Lotify\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\DJosuHe\Desktop\lotify\Lotify\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\DJosuHe\Desktop\lotify\Lotify\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\DJosuHe\Desktop\lotify\Lotify\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DJosuHe\Desktop\lotify\Lotify\bin\Microsoft.Owin.dll
+C:\Users\DJosuHe\Desktop\lotify\Lotify\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\DJosuHe\Desktop\lotify\Lotify\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\DJosuHe\Desktop\lotify\Lotify\bin\Microsoft.Owin.Security.dll
+C:\Users\DJosuHe\Desktop\lotify\Lotify\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\DJosuHe\Desktop\lotify\Lotify\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\DJosuHe\Desktop\lotify\Lotify\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\DJosuHe\Desktop\lotify\Lotify\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\DJosuHe\Desktop\lotify\Lotify\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\DJosuHe\Desktop\lotify\Lotify\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DJosuHe\Desktop\lotify\Lotify\bin\MySql.Data.dll
+C:\Users\DJosuHe\Desktop\lotify\Lotify\bin\MySql.Data.Entity.EF6.dll
+C:\Users\DJosuHe\Desktop\lotify\Lotify\bin\Newtonsoft.Json.dll
+C:\Users\DJosuHe\Desktop\lotify\Lotify\bin\Owin.dll
+C:\Users\DJosuHe\Desktop\lotify\Lotify\bin\System.Web.Helpers.dll
+C:\Users\DJosuHe\Desktop\lotify\Lotify\bin\System.Web.Mvc.dll
+C:\Users\DJosuHe\Desktop\lotify\Lotify\bin\System.Web.Optimization.dll
+C:\Users\DJosuHe\Desktop\lotify\Lotify\bin\System.Web.Razor.dll
+C:\Users\DJosuHe\Desktop\lotify\Lotify\bin\System.Web.WebPages.Deployment.dll
+C:\Users\DJosuHe\Desktop\lotify\Lotify\bin\System.Web.WebPages.dll
+C:\Users\DJosuHe\Desktop\lotify\Lotify\bin\System.Web.WebPages.Razor.dll
+C:\Users\DJosuHe\Desktop\lotify\Lotify\bin\WebGrease.dll
+C:\Users\DJosuHe\Desktop\lotify\Lotify\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DJosuHe\Desktop\lotify\Lotify\bin\System.Web.Optimization.xml
+C:\Users\DJosuHe\Desktop\lotify\Lotify\bin\System.Web.Helpers.xml
+C:\Users\DJosuHe\Desktop\lotify\Lotify\bin\System.Web.Mvc.xml
+C:\Users\DJosuHe\Desktop\lotify\Lotify\bin\System.Web.Razor.xml
+C:\Users\DJosuHe\Desktop\lotify\Lotify\bin\System.Web.WebPages.xml
+C:\Users\DJosuHe\Desktop\lotify\Lotify\bin\System.Web.WebPages.Deployment.xml
+C:\Users\DJosuHe\Desktop\lotify\Lotify\bin\System.Web.WebPages.Razor.xml
+C:\Users\DJosuHe\Desktop\lotify\Lotify\bin\Antlr3.Runtime.pdb
+C:\Users\DJosuHe\Desktop\lotify\Lotify\bin\Newtonsoft.Json.xml
+C:\Users\DJosuHe\Desktop\lotify\Lotify\bin\EntityFramework.xml
+C:\Users\DJosuHe\Desktop\lotify\Lotify\bin\EntityFramework.SqlServer.xml
+C:\Users\DJosuHe\Desktop\lotify\Lotify\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\DJosuHe\Desktop\lotify\Lotify\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\DJosuHe\Desktop\lotify\Lotify\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\DJosuHe\Desktop\lotify\Lotify\bin\Microsoft.Owin.xml
+C:\Users\DJosuHe\Desktop\lotify\Lotify\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\DJosuHe\Desktop\lotify\Lotify\bin\Microsoft.Owin.Security.xml
+C:\Users\DJosuHe\Desktop\lotify\Lotify\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\DJosuHe\Desktop\lotify\Lotify\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\DJosuHe\Desktop\lotify\Lotify\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\DJosuHe\Desktop\lotify\Lotify\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\DJosuHe\Desktop\lotify\Lotify\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\DJosuHe\Desktop\lotify\Lotify\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\DJosuHe\Desktop\lotify\Lotify\bin\es\System.Web.Helpers.resources.dll
+C:\Users\DJosuHe\Desktop\lotify\Lotify\bin\es\System.Web.Mvc.resources.dll
+C:\Users\DJosuHe\Desktop\lotify\Lotify\bin\es\System.Web.Razor.resources.dll
+C:\Users\DJosuHe\Desktop\lotify\Lotify\bin\es\System.Web.WebPages.resources.dll
+C:\Users\DJosuHe\Desktop\lotify\Lotify\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\DJosuHe\Desktop\lotify\Lotify\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\DJosuHe\Desktop\lotify\Lotify\bin\es\EntityFramework.resources.dll
+C:\Users\DJosuHe\Desktop\lotify\Lotify\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\DJosuHe\Desktop\lotify\Lotify\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\DJosuHe\Desktop\lotify\Lotify\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\DJosuHe\Desktop\lotify\Lotify\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\DJosuHe\Desktop\lotify\Lotify\bin\es\Microsoft.Owin.resources.dll
+C:\Users\DJosuHe\Desktop\lotify\Lotify\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\DJosuHe\Desktop\lotify\Lotify\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\DJosuHe\Desktop\lotify\Lotify\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\DJosuHe\Desktop\lotify\Lotify\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\DJosuHe\Desktop\lotify\Lotify\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\DJosuHe\Desktop\lotify\Lotify\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\DJosuHe\Desktop\lotify\Lotify\obj\Debug\Lotify.csprojResolveAssemblyReference.cache
+C:\Users\DJosuHe\Desktop\lotify\Lotify\obj\Debug\Lotify.Migrations.First.resources
+C:\Users\DJosuHe\Desktop\lotify\Lotify\obj\Debug\Lotify.Migrations.LotifyDB.resources
+C:\Users\DJosuHe\Desktop\lotify\Lotify\obj\Debug\Lotify.csproj.GenerateResource.Cache
+C:\Users\DJosuHe\Desktop\lotify\Lotify\obj\Debug\Lotify.dll
+C:\Users\DJosuHe\Desktop\lotify\Lotify\obj\Debug\Lotify.pdb
+C:\Users\DJosuHe\Documents\GitHub\Lotify2.0\Lotify\bin\roslyn\csc.exe
+C:\Users\DJosuHe\Documents\GitHub\Lotify2.0\Lotify\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify2.0\Lotify\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify2.0\Lotify\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify2.0\Lotify\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify2.0\Lotify\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DJosuHe\Documents\GitHub\Lotify2.0\Lotify\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DJosuHe\Documents\GitHub\Lotify2.0\Lotify\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify2.0\Lotify\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify2.0\Lotify\bin\roslyn\vbc.exe
+C:\Users\DJosuHe\Documents\GitHub\Lotify2.0\Lotify\bin\roslyn\VBCSCompiler.exe
+C:\Users\DJosuHe\Documents\GitHub\Lotify2.0\Lotify\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DJosuHe\Documents\GitHub\Lotify2.0\Lotify\bin\Lotify.dll.config
+C:\Users\DJosuHe\Documents\GitHub\Lotify2.0\Lotify\bin\Lotify.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify2.0\Lotify\bin\Lotify.pdb
+C:\Users\DJosuHe\Documents\GitHub\Lotify2.0\Lotify\bin\Antlr3.Runtime.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify2.0\Lotify\bin\EntityFramework.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify2.0\Lotify\bin\EntityFramework.SqlServer.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify2.0\Lotify\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify2.0\Lotify\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify2.0\Lotify\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify2.0\Lotify\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify2.0\Lotify\bin\Microsoft.Owin.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify2.0\Lotify\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify2.0\Lotify\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify2.0\Lotify\bin\Microsoft.Owin.Security.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify2.0\Lotify\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify2.0\Lotify\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify2.0\Lotify\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify2.0\Lotify\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify2.0\Lotify\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify2.0\Lotify\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify2.0\Lotify\bin\MySql.Data.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify2.0\Lotify\bin\MySql.Data.Entity.EF6.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify2.0\Lotify\bin\Newtonsoft.Json.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify2.0\Lotify\bin\Owin.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify2.0\Lotify\bin\System.Web.Helpers.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify2.0\Lotify\bin\System.Web.Mvc.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify2.0\Lotify\bin\System.Web.Optimization.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify2.0\Lotify\bin\System.Web.Razor.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify2.0\Lotify\bin\System.Web.WebPages.Deployment.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify2.0\Lotify\bin\System.Web.WebPages.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify2.0\Lotify\bin\System.Web.WebPages.Razor.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify2.0\Lotify\bin\WebGrease.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify2.0\Lotify\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DJosuHe\Documents\GitHub\Lotify2.0\Lotify\bin\System.Web.Optimization.xml
+C:\Users\DJosuHe\Documents\GitHub\Lotify2.0\Lotify\bin\System.Web.Helpers.xml
+C:\Users\DJosuHe\Documents\GitHub\Lotify2.0\Lotify\bin\System.Web.Mvc.xml
+C:\Users\DJosuHe\Documents\GitHub\Lotify2.0\Lotify\bin\System.Web.Razor.xml
+C:\Users\DJosuHe\Documents\GitHub\Lotify2.0\Lotify\bin\System.Web.WebPages.xml
+C:\Users\DJosuHe\Documents\GitHub\Lotify2.0\Lotify\bin\System.Web.WebPages.Deployment.xml
+C:\Users\DJosuHe\Documents\GitHub\Lotify2.0\Lotify\bin\System.Web.WebPages.Razor.xml
+C:\Users\DJosuHe\Documents\GitHub\Lotify2.0\Lotify\bin\Antlr3.Runtime.pdb
+C:\Users\DJosuHe\Documents\GitHub\Lotify2.0\Lotify\bin\Newtonsoft.Json.xml
+C:\Users\DJosuHe\Documents\GitHub\Lotify2.0\Lotify\bin\EntityFramework.xml
+C:\Users\DJosuHe\Documents\GitHub\Lotify2.0\Lotify\bin\EntityFramework.SqlServer.xml
+C:\Users\DJosuHe\Documents\GitHub\Lotify2.0\Lotify\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\DJosuHe\Documents\GitHub\Lotify2.0\Lotify\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\DJosuHe\Documents\GitHub\Lotify2.0\Lotify\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\DJosuHe\Documents\GitHub\Lotify2.0\Lotify\bin\Microsoft.Owin.xml
+C:\Users\DJosuHe\Documents\GitHub\Lotify2.0\Lotify\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\DJosuHe\Documents\GitHub\Lotify2.0\Lotify\bin\Microsoft.Owin.Security.xml
+C:\Users\DJosuHe\Documents\GitHub\Lotify2.0\Lotify\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\DJosuHe\Documents\GitHub\Lotify2.0\Lotify\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\DJosuHe\Documents\GitHub\Lotify2.0\Lotify\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\DJosuHe\Documents\GitHub\Lotify2.0\Lotify\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\DJosuHe\Documents\GitHub\Lotify2.0\Lotify\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\DJosuHe\Documents\GitHub\Lotify2.0\Lotify\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\DJosuHe\Documents\GitHub\Lotify2.0\Lotify\bin\es\System.Web.Helpers.resources.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify2.0\Lotify\bin\es\System.Web.Mvc.resources.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify2.0\Lotify\bin\es\System.Web.Razor.resources.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify2.0\Lotify\bin\es\System.Web.WebPages.resources.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify2.0\Lotify\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify2.0\Lotify\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify2.0\Lotify\bin\es\EntityFramework.resources.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify2.0\Lotify\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify2.0\Lotify\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify2.0\Lotify\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify2.0\Lotify\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify2.0\Lotify\bin\es\Microsoft.Owin.resources.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify2.0\Lotify\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify2.0\Lotify\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify2.0\Lotify\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify2.0\Lotify\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify2.0\Lotify\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify2.0\Lotify\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify2.0\Lotify\obj\Debug\Lotify.csprojResolveAssemblyReference.cache
+C:\Users\DJosuHe\Documents\GitHub\Lotify2.0\Lotify\obj\Debug\Lotify.Migrations.First.resources
+C:\Users\DJosuHe\Documents\GitHub\Lotify2.0\Lotify\obj\Debug\Lotify.Migrations.LotifyDB.resources
+C:\Users\DJosuHe\Documents\GitHub\Lotify2.0\Lotify\obj\Debug\Lotify.csproj.GenerateResource.Cache
+C:\Users\DJosuHe\Documents\GitHub\Lotify2.0\Lotify\obj\Debug\Lotify.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify2.0\Lotify\obj\Debug\Lotify.pdb
+C:\Users\ALEX REYNOSO\Documents\GitHub\Lotify2.0-master\Lotify\bin\roslyn\csc.exe
+C:\Users\ALEX REYNOSO\Documents\GitHub\Lotify2.0-master\Lotify\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ALEX REYNOSO\Documents\GitHub\Lotify2.0-master\Lotify\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ALEX REYNOSO\Documents\GitHub\Lotify2.0-master\Lotify\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ALEX REYNOSO\Documents\GitHub\Lotify2.0-master\Lotify\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ALEX REYNOSO\Documents\GitHub\Lotify2.0-master\Lotify\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ALEX REYNOSO\Documents\GitHub\Lotify2.0-master\Lotify\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ALEX REYNOSO\Documents\GitHub\Lotify2.0-master\Lotify\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ALEX REYNOSO\Documents\GitHub\Lotify2.0-master\Lotify\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ALEX REYNOSO\Documents\GitHub\Lotify2.0-master\Lotify\bin\roslyn\vbc.exe
+C:\Users\ALEX REYNOSO\Documents\GitHub\Lotify2.0-master\Lotify\bin\roslyn\VBCSCompiler.exe
+C:\Users\ALEX REYNOSO\Documents\GitHub\Lotify2.0-master\Lotify\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ALEX REYNOSO\Documents\GitHub\Lotify2.0-master\Lotify\bin\Lotify.dll.config
+C:\Users\ALEX REYNOSO\Documents\GitHub\Lotify2.0-master\Lotify\bin\Lotify.dll
+C:\Users\ALEX REYNOSO\Documents\GitHub\Lotify2.0-master\Lotify\bin\Lotify.pdb
+C:\Users\ALEX REYNOSO\Documents\GitHub\Lotify2.0-master\Lotify\bin\Antlr3.Runtime.dll
+C:\Users\ALEX REYNOSO\Documents\GitHub\Lotify2.0-master\Lotify\bin\EntityFramework.dll
+C:\Users\ALEX REYNOSO\Documents\GitHub\Lotify2.0-master\Lotify\bin\EntityFramework.SqlServer.dll
+C:\Users\ALEX REYNOSO\Documents\GitHub\Lotify2.0-master\Lotify\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ALEX REYNOSO\Documents\GitHub\Lotify2.0-master\Lotify\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ALEX REYNOSO\Documents\GitHub\Lotify2.0-master\Lotify\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ALEX REYNOSO\Documents\GitHub\Lotify2.0-master\Lotify\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ALEX REYNOSO\Documents\GitHub\Lotify2.0-master\Lotify\bin\Microsoft.Owin.dll
+C:\Users\ALEX REYNOSO\Documents\GitHub\Lotify2.0-master\Lotify\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ALEX REYNOSO\Documents\GitHub\Lotify2.0-master\Lotify\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ALEX REYNOSO\Documents\GitHub\Lotify2.0-master\Lotify\bin\Microsoft.Owin.Security.dll
+C:\Users\ALEX REYNOSO\Documents\GitHub\Lotify2.0-master\Lotify\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ALEX REYNOSO\Documents\GitHub\Lotify2.0-master\Lotify\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ALEX REYNOSO\Documents\GitHub\Lotify2.0-master\Lotify\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ALEX REYNOSO\Documents\GitHub\Lotify2.0-master\Lotify\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ALEX REYNOSO\Documents\GitHub\Lotify2.0-master\Lotify\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ALEX REYNOSO\Documents\GitHub\Lotify2.0-master\Lotify\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ALEX REYNOSO\Documents\GitHub\Lotify2.0-master\Lotify\bin\MySql.Data.dll
+C:\Users\ALEX REYNOSO\Documents\GitHub\Lotify2.0-master\Lotify\bin\MySql.Data.Entity.EF6.dll
+C:\Users\ALEX REYNOSO\Documents\GitHub\Lotify2.0-master\Lotify\bin\Newtonsoft.Json.dll
+C:\Users\ALEX REYNOSO\Documents\GitHub\Lotify2.0-master\Lotify\bin\Owin.dll
+C:\Users\ALEX REYNOSO\Documents\GitHub\Lotify2.0-master\Lotify\bin\System.Web.Helpers.dll
+C:\Users\ALEX REYNOSO\Documents\GitHub\Lotify2.0-master\Lotify\bin\System.Web.Mvc.dll
+C:\Users\ALEX REYNOSO\Documents\GitHub\Lotify2.0-master\Lotify\bin\System.Web.Optimization.dll
+C:\Users\ALEX REYNOSO\Documents\GitHub\Lotify2.0-master\Lotify\bin\System.Web.Razor.dll
+C:\Users\ALEX REYNOSO\Documents\GitHub\Lotify2.0-master\Lotify\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ALEX REYNOSO\Documents\GitHub\Lotify2.0-master\Lotify\bin\System.Web.WebPages.dll
+C:\Users\ALEX REYNOSO\Documents\GitHub\Lotify2.0-master\Lotify\bin\System.Web.WebPages.Razor.dll
+C:\Users\ALEX REYNOSO\Documents\GitHub\Lotify2.0-master\Lotify\bin\WebGrease.dll
+C:\Users\ALEX REYNOSO\Documents\GitHub\Lotify2.0-master\Lotify\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ALEX REYNOSO\Documents\GitHub\Lotify2.0-master\Lotify\bin\System.Web.Optimization.xml
+C:\Users\ALEX REYNOSO\Documents\GitHub\Lotify2.0-master\Lotify\bin\System.Web.Helpers.xml
+C:\Users\ALEX REYNOSO\Documents\GitHub\Lotify2.0-master\Lotify\bin\System.Web.Mvc.xml
+C:\Users\ALEX REYNOSO\Documents\GitHub\Lotify2.0-master\Lotify\bin\System.Web.Razor.xml
+C:\Users\ALEX REYNOSO\Documents\GitHub\Lotify2.0-master\Lotify\bin\System.Web.WebPages.xml
+C:\Users\ALEX REYNOSO\Documents\GitHub\Lotify2.0-master\Lotify\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ALEX REYNOSO\Documents\GitHub\Lotify2.0-master\Lotify\bin\System.Web.WebPages.Razor.xml
+C:\Users\ALEX REYNOSO\Documents\GitHub\Lotify2.0-master\Lotify\bin\Antlr3.Runtime.pdb
+C:\Users\ALEX REYNOSO\Documents\GitHub\Lotify2.0-master\Lotify\bin\Newtonsoft.Json.xml
+C:\Users\ALEX REYNOSO\Documents\GitHub\Lotify2.0-master\Lotify\bin\EntityFramework.xml
+C:\Users\ALEX REYNOSO\Documents\GitHub\Lotify2.0-master\Lotify\bin\EntityFramework.SqlServer.xml
+C:\Users\ALEX REYNOSO\Documents\GitHub\Lotify2.0-master\Lotify\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ALEX REYNOSO\Documents\GitHub\Lotify2.0-master\Lotify\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ALEX REYNOSO\Documents\GitHub\Lotify2.0-master\Lotify\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ALEX REYNOSO\Documents\GitHub\Lotify2.0-master\Lotify\bin\Microsoft.Owin.xml
+C:\Users\ALEX REYNOSO\Documents\GitHub\Lotify2.0-master\Lotify\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ALEX REYNOSO\Documents\GitHub\Lotify2.0-master\Lotify\bin\Microsoft.Owin.Security.xml
+C:\Users\ALEX REYNOSO\Documents\GitHub\Lotify2.0-master\Lotify\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ALEX REYNOSO\Documents\GitHub\Lotify2.0-master\Lotify\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ALEX REYNOSO\Documents\GitHub\Lotify2.0-master\Lotify\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ALEX REYNOSO\Documents\GitHub\Lotify2.0-master\Lotify\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ALEX REYNOSO\Documents\GitHub\Lotify2.0-master\Lotify\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ALEX REYNOSO\Documents\GitHub\Lotify2.0-master\Lotify\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ALEX REYNOSO\Documents\GitHub\Lotify2.0-master\Lotify\bin\es\System.Web.Helpers.resources.dll
+C:\Users\ALEX REYNOSO\Documents\GitHub\Lotify2.0-master\Lotify\bin\es\System.Web.Mvc.resources.dll
+C:\Users\ALEX REYNOSO\Documents\GitHub\Lotify2.0-master\Lotify\bin\es\System.Web.Razor.resources.dll
+C:\Users\ALEX REYNOSO\Documents\GitHub\Lotify2.0-master\Lotify\bin\es\System.Web.WebPages.resources.dll
+C:\Users\ALEX REYNOSO\Documents\GitHub\Lotify2.0-master\Lotify\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\ALEX REYNOSO\Documents\GitHub\Lotify2.0-master\Lotify\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\ALEX REYNOSO\Documents\GitHub\Lotify2.0-master\Lotify\bin\es\EntityFramework.resources.dll
+C:\Users\ALEX REYNOSO\Documents\GitHub\Lotify2.0-master\Lotify\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\ALEX REYNOSO\Documents\GitHub\Lotify2.0-master\Lotify\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\ALEX REYNOSO\Documents\GitHub\Lotify2.0-master\Lotify\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\ALEX REYNOSO\Documents\GitHub\Lotify2.0-master\Lotify\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\ALEX REYNOSO\Documents\GitHub\Lotify2.0-master\Lotify\bin\es\Microsoft.Owin.resources.dll
+C:\Users\ALEX REYNOSO\Documents\GitHub\Lotify2.0-master\Lotify\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\ALEX REYNOSO\Documents\GitHub\Lotify2.0-master\Lotify\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\ALEX REYNOSO\Documents\GitHub\Lotify2.0-master\Lotify\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\ALEX REYNOSO\Documents\GitHub\Lotify2.0-master\Lotify\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\ALEX REYNOSO\Documents\GitHub\Lotify2.0-master\Lotify\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\ALEX REYNOSO\Documents\GitHub\Lotify2.0-master\Lotify\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\ALEX REYNOSO\Documents\GitHub\Lotify2.0-master\Lotify\obj\Debug\Lotify.csprojResolveAssemblyReference.cache
+C:\Users\ALEX REYNOSO\Documents\GitHub\Lotify2.0-master\Lotify\obj\Debug\Lotify.Migrations.First.resources
+C:\Users\ALEX REYNOSO\Documents\GitHub\Lotify2.0-master\Lotify\obj\Debug\Lotify.Migrations.LotifyDB.resources
+C:\Users\ALEX REYNOSO\Documents\GitHub\Lotify2.0-master\Lotify\obj\Debug\Lotify.csproj.GenerateResource.Cache
+C:\Users\ALEX REYNOSO\Documents\GitHub\Lotify2.0-master\Lotify\obj\Debug\Lotify.dll
+C:\Users\ALEX REYNOSO\Documents\GitHub\Lotify2.0-master\Lotify\obj\Debug\Lotify.pdb
+C:\Users\Usuario\Desktop\PROYECTO DISEÑO DE SISTEMAS\Actualizado\Lotify2.0-master\Lotify\bin\roslyn\csc.exe
+C:\Users\Usuario\Desktop\PROYECTO DISEÑO DE SISTEMAS\Actualizado\Lotify2.0-master\Lotify\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\PROYECTO DISEÑO DE SISTEMAS\Actualizado\Lotify2.0-master\Lotify\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\Desktop\PROYECTO DISEÑO DE SISTEMAS\Actualizado\Lotify2.0-master\Lotify\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\PROYECTO DISEÑO DE SISTEMAS\Actualizado\Lotify2.0-master\Lotify\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Usuario\Desktop\PROYECTO DISEÑO DE SISTEMAS\Actualizado\Lotify2.0-master\Lotify\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Usuario\Desktop\PROYECTO DISEÑO DE SISTEMAS\Actualizado\Lotify2.0-master\Lotify\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Usuario\Desktop\PROYECTO DISEÑO DE SISTEMAS\Actualizado\Lotify2.0-master\Lotify\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Usuario\Desktop\PROYECTO DISEÑO DE SISTEMAS\Actualizado\Lotify2.0-master\Lotify\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Usuario\Desktop\PROYECTO DISEÑO DE SISTEMAS\Actualizado\Lotify2.0-master\Lotify\bin\roslyn\vbc.exe
+C:\Users\Usuario\Desktop\PROYECTO DISEÑO DE SISTEMAS\Actualizado\Lotify2.0-master\Lotify\bin\roslyn\VBCSCompiler.exe
+C:\Users\Usuario\Desktop\PROYECTO DISEÑO DE SISTEMAS\Actualizado\Lotify2.0-master\Lotify\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Usuario\Desktop\PROYECTO DISEÑO DE SISTEMAS\Actualizado\Lotify2.0-master\Lotify\bin\Lotify.dll.config
+C:\Users\Usuario\Desktop\PROYECTO DISEÑO DE SISTEMAS\Actualizado\Lotify2.0-master\Lotify\bin\Lotify.dll
+C:\Users\Usuario\Desktop\PROYECTO DISEÑO DE SISTEMAS\Actualizado\Lotify2.0-master\Lotify\bin\Lotify.pdb
+C:\Users\Usuario\Desktop\PROYECTO DISEÑO DE SISTEMAS\Actualizado\Lotify2.0-master\Lotify\bin\Antlr3.Runtime.dll
+C:\Users\Usuario\Desktop\PROYECTO DISEÑO DE SISTEMAS\Actualizado\Lotify2.0-master\Lotify\bin\EntityFramework.dll
+C:\Users\Usuario\Desktop\PROYECTO DISEÑO DE SISTEMAS\Actualizado\Lotify2.0-master\Lotify\bin\EntityFramework.SqlServer.dll
+C:\Users\Usuario\Desktop\PROYECTO DISEÑO DE SISTEMAS\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Usuario\Desktop\PROYECTO DISEÑO DE SISTEMAS\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Usuario\Desktop\PROYECTO DISEÑO DE SISTEMAS\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Usuario\Desktop\PROYECTO DISEÑO DE SISTEMAS\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Usuario\Desktop\PROYECTO DISEÑO DE SISTEMAS\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.Owin.dll
+C:\Users\Usuario\Desktop\PROYECTO DISEÑO DE SISTEMAS\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Usuario\Desktop\PROYECTO DISEÑO DE SISTEMAS\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Usuario\Desktop\PROYECTO DISEÑO DE SISTEMAS\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.Owin.Security.dll
+C:\Users\Usuario\Desktop\PROYECTO DISEÑO DE SISTEMAS\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Usuario\Desktop\PROYECTO DISEÑO DE SISTEMAS\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Usuario\Desktop\PROYECTO DISEÑO DE SISTEMAS\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Usuario\Desktop\PROYECTO DISEÑO DE SISTEMAS\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Usuario\Desktop\PROYECTO DISEÑO DE SISTEMAS\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Usuario\Desktop\PROYECTO DISEÑO DE SISTEMAS\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Usuario\Desktop\PROYECTO DISEÑO DE SISTEMAS\Actualizado\Lotify2.0-master\Lotify\bin\MySql.Data.dll
+C:\Users\Usuario\Desktop\PROYECTO DISEÑO DE SISTEMAS\Actualizado\Lotify2.0-master\Lotify\bin\MySql.Data.Entity.EF6.dll
+C:\Users\Usuario\Desktop\PROYECTO DISEÑO DE SISTEMAS\Actualizado\Lotify2.0-master\Lotify\bin\Newtonsoft.Json.dll
+C:\Users\Usuario\Desktop\PROYECTO DISEÑO DE SISTEMAS\Actualizado\Lotify2.0-master\Lotify\bin\Owin.dll
+C:\Users\Usuario\Desktop\PROYECTO DISEÑO DE SISTEMAS\Actualizado\Lotify2.0-master\Lotify\bin\System.Web.Helpers.dll
+C:\Users\Usuario\Desktop\PROYECTO DISEÑO DE SISTEMAS\Actualizado\Lotify2.0-master\Lotify\bin\System.Web.Mvc.dll
+C:\Users\Usuario\Desktop\PROYECTO DISEÑO DE SISTEMAS\Actualizado\Lotify2.0-master\Lotify\bin\System.Web.Optimization.dll
+C:\Users\Usuario\Desktop\PROYECTO DISEÑO DE SISTEMAS\Actualizado\Lotify2.0-master\Lotify\bin\System.Web.Razor.dll
+C:\Users\Usuario\Desktop\PROYECTO DISEÑO DE SISTEMAS\Actualizado\Lotify2.0-master\Lotify\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Usuario\Desktop\PROYECTO DISEÑO DE SISTEMAS\Actualizado\Lotify2.0-master\Lotify\bin\System.Web.WebPages.dll
+C:\Users\Usuario\Desktop\PROYECTO DISEÑO DE SISTEMAS\Actualizado\Lotify2.0-master\Lotify\bin\System.Web.WebPages.Razor.dll
+C:\Users\Usuario\Desktop\PROYECTO DISEÑO DE SISTEMAS\Actualizado\Lotify2.0-master\Lotify\bin\WebGrease.dll
+C:\Users\Usuario\Desktop\PROYECTO DISEÑO DE SISTEMAS\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Usuario\Desktop\PROYECTO DISEÑO DE SISTEMAS\Actualizado\Lotify2.0-master\Lotify\bin\System.Web.Optimization.xml
+C:\Users\Usuario\Desktop\PROYECTO DISEÑO DE SISTEMAS\Actualizado\Lotify2.0-master\Lotify\bin\System.Web.Helpers.xml
+C:\Users\Usuario\Desktop\PROYECTO DISEÑO DE SISTEMAS\Actualizado\Lotify2.0-master\Lotify\bin\System.Web.Mvc.xml
+C:\Users\Usuario\Desktop\PROYECTO DISEÑO DE SISTEMAS\Actualizado\Lotify2.0-master\Lotify\bin\System.Web.Razor.xml
+C:\Users\Usuario\Desktop\PROYECTO DISEÑO DE SISTEMAS\Actualizado\Lotify2.0-master\Lotify\bin\System.Web.WebPages.xml
+C:\Users\Usuario\Desktop\PROYECTO DISEÑO DE SISTEMAS\Actualizado\Lotify2.0-master\Lotify\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Usuario\Desktop\PROYECTO DISEÑO DE SISTEMAS\Actualizado\Lotify2.0-master\Lotify\bin\System.Web.WebPages.Razor.xml
+C:\Users\Usuario\Desktop\PROYECTO DISEÑO DE SISTEMAS\Actualizado\Lotify2.0-master\Lotify\bin\Antlr3.Runtime.pdb
+C:\Users\Usuario\Desktop\PROYECTO DISEÑO DE SISTEMAS\Actualizado\Lotify2.0-master\Lotify\bin\Newtonsoft.Json.xml
+C:\Users\Usuario\Desktop\PROYECTO DISEÑO DE SISTEMAS\Actualizado\Lotify2.0-master\Lotify\bin\EntityFramework.xml
+C:\Users\Usuario\Desktop\PROYECTO DISEÑO DE SISTEMAS\Actualizado\Lotify2.0-master\Lotify\bin\EntityFramework.SqlServer.xml
+C:\Users\Usuario\Desktop\PROYECTO DISEÑO DE SISTEMAS\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Usuario\Desktop\PROYECTO DISEÑO DE SISTEMAS\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Usuario\Desktop\PROYECTO DISEÑO DE SISTEMAS\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Usuario\Desktop\PROYECTO DISEÑO DE SISTEMAS\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.Owin.xml
+C:\Users\Usuario\Desktop\PROYECTO DISEÑO DE SISTEMAS\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Usuario\Desktop\PROYECTO DISEÑO DE SISTEMAS\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.Owin.Security.xml
+C:\Users\Usuario\Desktop\PROYECTO DISEÑO DE SISTEMAS\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Usuario\Desktop\PROYECTO DISEÑO DE SISTEMAS\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Usuario\Desktop\PROYECTO DISEÑO DE SISTEMAS\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Usuario\Desktop\PROYECTO DISEÑO DE SISTEMAS\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Usuario\Desktop\PROYECTO DISEÑO DE SISTEMAS\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Usuario\Desktop\PROYECTO DISEÑO DE SISTEMAS\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Usuario\Desktop\PROYECTO DISEÑO DE SISTEMAS\Actualizado\Lotify2.0-master\Lotify\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Usuario\Desktop\PROYECTO DISEÑO DE SISTEMAS\Actualizado\Lotify2.0-master\Lotify\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Usuario\Desktop\PROYECTO DISEÑO DE SISTEMAS\Actualizado\Lotify2.0-master\Lotify\bin\es\System.Web.Razor.resources.dll
+C:\Users\Usuario\Desktop\PROYECTO DISEÑO DE SISTEMAS\Actualizado\Lotify2.0-master\Lotify\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Usuario\Desktop\PROYECTO DISEÑO DE SISTEMAS\Actualizado\Lotify2.0-master\Lotify\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Usuario\Desktop\PROYECTO DISEÑO DE SISTEMAS\Actualizado\Lotify2.0-master\Lotify\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Usuario\Desktop\PROYECTO DISEÑO DE SISTEMAS\Actualizado\Lotify2.0-master\Lotify\bin\es\EntityFramework.resources.dll
+C:\Users\Usuario\Desktop\PROYECTO DISEÑO DE SISTEMAS\Actualizado\Lotify2.0-master\Lotify\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Usuario\Desktop\PROYECTO DISEÑO DE SISTEMAS\Actualizado\Lotify2.0-master\Lotify\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Usuario\Desktop\PROYECTO DISEÑO DE SISTEMAS\Actualizado\Lotify2.0-master\Lotify\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Usuario\Desktop\PROYECTO DISEÑO DE SISTEMAS\Actualizado\Lotify2.0-master\Lotify\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Usuario\Desktop\PROYECTO DISEÑO DE SISTEMAS\Actualizado\Lotify2.0-master\Lotify\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Usuario\Desktop\PROYECTO DISEÑO DE SISTEMAS\Actualizado\Lotify2.0-master\Lotify\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Usuario\Desktop\PROYECTO DISEÑO DE SISTEMAS\Actualizado\Lotify2.0-master\Lotify\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Usuario\Desktop\PROYECTO DISEÑO DE SISTEMAS\Actualizado\Lotify2.0-master\Lotify\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Usuario\Desktop\PROYECTO DISEÑO DE SISTEMAS\Actualizado\Lotify2.0-master\Lotify\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Usuario\Desktop\PROYECTO DISEÑO DE SISTEMAS\Actualizado\Lotify2.0-master\Lotify\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Usuario\Desktop\PROYECTO DISEÑO DE SISTEMAS\Actualizado\Lotify2.0-master\Lotify\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Usuario\Desktop\PROYECTO DISEÑO DE SISTEMAS\Actualizado\Lotify2.0-master\Lotify\obj\Debug\Lotify.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\PROYECTO DISEÑO DE SISTEMAS\Actualizado\Lotify2.0-master\Lotify\obj\Debug\Lotify.Migrations.First.resources
+C:\Users\Usuario\Desktop\PROYECTO DISEÑO DE SISTEMAS\Actualizado\Lotify2.0-master\Lotify\obj\Debug\Lotify.Migrations.LotifyDB.resources
+C:\Users\Usuario\Desktop\PROYECTO DISEÑO DE SISTEMAS\Actualizado\Lotify2.0-master\Lotify\obj\Debug\Lotify.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\PROYECTO DISEÑO DE SISTEMAS\Actualizado\Lotify2.0-master\Lotify\obj\Debug\Lotify.dll
+C:\Users\Usuario\Desktop\PROYECTO DISEÑO DE SISTEMAS\Actualizado\Lotify2.0-master\Lotify\obj\Debug\Lotify.pdb
+C:\Users\jpabl\Desktop\Actualizado\Lotify2.0-master\Lotify\bin\roslyn\csc.exe
+C:\Users\jpabl\Desktop\Actualizado\Lotify2.0-master\Lotify\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jpabl\Desktop\Actualizado\Lotify2.0-master\Lotify\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jpabl\Desktop\Actualizado\Lotify2.0-master\Lotify\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jpabl\Desktop\Actualizado\Lotify2.0-master\Lotify\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jpabl\Desktop\Actualizado\Lotify2.0-master\Lotify\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jpabl\Desktop\Actualizado\Lotify2.0-master\Lotify\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jpabl\Desktop\Actualizado\Lotify2.0-master\Lotify\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jpabl\Desktop\Actualizado\Lotify2.0-master\Lotify\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jpabl\Desktop\Actualizado\Lotify2.0-master\Lotify\bin\roslyn\vbc.exe
+C:\Users\jpabl\Desktop\Actualizado\Lotify2.0-master\Lotify\bin\roslyn\VBCSCompiler.exe
+C:\Users\jpabl\Desktop\Actualizado\Lotify2.0-master\Lotify\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jpabl\Desktop\Actualizado\Lotify2.0-master\Lotify\bin\Lotify.dll.config
+C:\Users\jpabl\Desktop\Actualizado\Lotify2.0-master\Lotify\bin\Lotify.dll
+C:\Users\jpabl\Desktop\Actualizado\Lotify2.0-master\Lotify\bin\Lotify.pdb
+C:\Users\jpabl\Desktop\Actualizado\Lotify2.0-master\Lotify\bin\Antlr3.Runtime.dll
+C:\Users\jpabl\Desktop\Actualizado\Lotify2.0-master\Lotify\bin\EntityFramework.dll
+C:\Users\jpabl\Desktop\Actualizado\Lotify2.0-master\Lotify\bin\EntityFramework.SqlServer.dll
+C:\Users\jpabl\Desktop\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\jpabl\Desktop\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\jpabl\Desktop\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\jpabl\Desktop\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jpabl\Desktop\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.Owin.dll
+C:\Users\jpabl\Desktop\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\jpabl\Desktop\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\jpabl\Desktop\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.Owin.Security.dll
+C:\Users\jpabl\Desktop\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\jpabl\Desktop\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\jpabl\Desktop\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\jpabl\Desktop\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\jpabl\Desktop\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\jpabl\Desktop\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jpabl\Desktop\Actualizado\Lotify2.0-master\Lotify\bin\MySql.Data.dll
+C:\Users\jpabl\Desktop\Actualizado\Lotify2.0-master\Lotify\bin\MySql.Data.Entity.EF6.dll
+C:\Users\jpabl\Desktop\Actualizado\Lotify2.0-master\Lotify\bin\Newtonsoft.Json.dll
+C:\Users\jpabl\Desktop\Actualizado\Lotify2.0-master\Lotify\bin\Owin.dll
+C:\Users\jpabl\Desktop\Actualizado\Lotify2.0-master\Lotify\bin\System.Web.Helpers.dll
+C:\Users\jpabl\Desktop\Actualizado\Lotify2.0-master\Lotify\bin\System.Web.Mvc.dll
+C:\Users\jpabl\Desktop\Actualizado\Lotify2.0-master\Lotify\bin\System.Web.Optimization.dll
+C:\Users\jpabl\Desktop\Actualizado\Lotify2.0-master\Lotify\bin\System.Web.Razor.dll
+C:\Users\jpabl\Desktop\Actualizado\Lotify2.0-master\Lotify\bin\System.Web.WebPages.Deployment.dll
+C:\Users\jpabl\Desktop\Actualizado\Lotify2.0-master\Lotify\bin\System.Web.WebPages.dll
+C:\Users\jpabl\Desktop\Actualizado\Lotify2.0-master\Lotify\bin\System.Web.WebPages.Razor.dll
+C:\Users\jpabl\Desktop\Actualizado\Lotify2.0-master\Lotify\bin\WebGrease.dll
+C:\Users\jpabl\Desktop\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jpabl\Desktop\Actualizado\Lotify2.0-master\Lotify\bin\System.Web.Optimization.xml
+C:\Users\jpabl\Desktop\Actualizado\Lotify2.0-master\Lotify\bin\System.Web.Helpers.xml
+C:\Users\jpabl\Desktop\Actualizado\Lotify2.0-master\Lotify\bin\System.Web.Mvc.xml
+C:\Users\jpabl\Desktop\Actualizado\Lotify2.0-master\Lotify\bin\System.Web.Razor.xml
+C:\Users\jpabl\Desktop\Actualizado\Lotify2.0-master\Lotify\bin\System.Web.WebPages.xml
+C:\Users\jpabl\Desktop\Actualizado\Lotify2.0-master\Lotify\bin\System.Web.WebPages.Deployment.xml
+C:\Users\jpabl\Desktop\Actualizado\Lotify2.0-master\Lotify\bin\System.Web.WebPages.Razor.xml
+C:\Users\jpabl\Desktop\Actualizado\Lotify2.0-master\Lotify\bin\Antlr3.Runtime.pdb
+C:\Users\jpabl\Desktop\Actualizado\Lotify2.0-master\Lotify\bin\Newtonsoft.Json.xml
+C:\Users\jpabl\Desktop\Actualizado\Lotify2.0-master\Lotify\bin\EntityFramework.xml
+C:\Users\jpabl\Desktop\Actualizado\Lotify2.0-master\Lotify\bin\EntityFramework.SqlServer.xml
+C:\Users\jpabl\Desktop\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\jpabl\Desktop\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\jpabl\Desktop\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\jpabl\Desktop\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.Owin.xml
+C:\Users\jpabl\Desktop\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\jpabl\Desktop\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.Owin.Security.xml
+C:\Users\jpabl\Desktop\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\jpabl\Desktop\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\jpabl\Desktop\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\jpabl\Desktop\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\jpabl\Desktop\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\jpabl\Desktop\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\jpabl\Desktop\Actualizado\Lotify2.0-master\Lotify\bin\es\System.Web.Helpers.resources.dll
+C:\Users\jpabl\Desktop\Actualizado\Lotify2.0-master\Lotify\bin\es\System.Web.Mvc.resources.dll
+C:\Users\jpabl\Desktop\Actualizado\Lotify2.0-master\Lotify\bin\es\System.Web.Razor.resources.dll
+C:\Users\jpabl\Desktop\Actualizado\Lotify2.0-master\Lotify\bin\es\System.Web.WebPages.resources.dll
+C:\Users\jpabl\Desktop\Actualizado\Lotify2.0-master\Lotify\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\jpabl\Desktop\Actualizado\Lotify2.0-master\Lotify\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\jpabl\Desktop\Actualizado\Lotify2.0-master\Lotify\bin\es\EntityFramework.resources.dll
+C:\Users\jpabl\Desktop\Actualizado\Lotify2.0-master\Lotify\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\jpabl\Desktop\Actualizado\Lotify2.0-master\Lotify\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\jpabl\Desktop\Actualizado\Lotify2.0-master\Lotify\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\jpabl\Desktop\Actualizado\Lotify2.0-master\Lotify\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\jpabl\Desktop\Actualizado\Lotify2.0-master\Lotify\bin\es\Microsoft.Owin.resources.dll
+C:\Users\jpabl\Desktop\Actualizado\Lotify2.0-master\Lotify\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\jpabl\Desktop\Actualizado\Lotify2.0-master\Lotify\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\jpabl\Desktop\Actualizado\Lotify2.0-master\Lotify\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\jpabl\Desktop\Actualizado\Lotify2.0-master\Lotify\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\jpabl\Desktop\Actualizado\Lotify2.0-master\Lotify\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\jpabl\Desktop\Actualizado\Lotify2.0-master\Lotify\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\jpabl\Desktop\Actualizado\Lotify2.0-master\Lotify\obj\Debug\Lotify.csprojResolveAssemblyReference.cache
+C:\Users\jpabl\Desktop\Actualizado\Lotify2.0-master\Lotify\obj\Debug\Lotify.Migrations.First.resources
+C:\Users\jpabl\Desktop\Actualizado\Lotify2.0-master\Lotify\obj\Debug\Lotify.Migrations.LotifyDB.resources
+C:\Users\jpabl\Desktop\Actualizado\Lotify2.0-master\Lotify\obj\Debug\Lotify.csproj.GenerateResource.Cache
+C:\Users\jpabl\Desktop\Actualizado\Lotify2.0-master\Lotify\obj\Debug\Lotify.dll
+C:\Users\jpabl\Desktop\Actualizado\Lotify2.0-master\Lotify\obj\Debug\Lotify.pdb
+F:\Actualizado\Lotify2.0-master\Lotify\bin\roslyn\csc.exe
+F:\Actualizado\Lotify2.0-master\Lotify\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Actualizado\Lotify2.0-master\Lotify\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Actualizado\Lotify2.0-master\Lotify\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Actualizado\Lotify2.0-master\Lotify\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Actualizado\Lotify2.0-master\Lotify\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Actualizado\Lotify2.0-master\Lotify\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Actualizado\Lotify2.0-master\Lotify\bin\roslyn\System.Collections.Immutable.dll
+F:\Actualizado\Lotify2.0-master\Lotify\bin\roslyn\System.Reflection.Metadata.dll
+F:\Actualizado\Lotify2.0-master\Lotify\bin\roslyn\vbc.exe
+F:\Actualizado\Lotify2.0-master\Lotify\bin\roslyn\VBCSCompiler.exe
+F:\Actualizado\Lotify2.0-master\Lotify\bin\roslyn\VBCSCompiler.exe.config
+F:\Actualizado\Lotify2.0-master\Lotify\bin\Lotify.dll.config
+F:\Actualizado\Lotify2.0-master\Lotify\bin\Lotify.dll
+F:\Actualizado\Lotify2.0-master\Lotify\bin\Lotify.pdb
+F:\Actualizado\Lotify2.0-master\Lotify\bin\Antlr3.Runtime.dll
+F:\Actualizado\Lotify2.0-master\Lotify\bin\EntityFramework.dll
+F:\Actualizado\Lotify2.0-master\Lotify\bin\EntityFramework.SqlServer.dll
+F:\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.Owin.dll
+F:\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.Owin.Security.dll
+F:\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.Owin.Security.Facebook.dll
+F:\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.Owin.Security.Google.dll
+F:\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.Owin.Security.Twitter.dll
+F:\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.Web.Infrastructure.dll
+F:\Actualizado\Lotify2.0-master\Lotify\bin\MySql.Data.dll
+F:\Actualizado\Lotify2.0-master\Lotify\bin\MySql.Data.Entity.EF6.dll
+F:\Actualizado\Lotify2.0-master\Lotify\bin\Newtonsoft.Json.dll
+F:\Actualizado\Lotify2.0-master\Lotify\bin\Owin.dll
+F:\Actualizado\Lotify2.0-master\Lotify\bin\System.Web.Helpers.dll
+F:\Actualizado\Lotify2.0-master\Lotify\bin\System.Web.Mvc.dll
+F:\Actualizado\Lotify2.0-master\Lotify\bin\System.Web.Optimization.dll
+F:\Actualizado\Lotify2.0-master\Lotify\bin\System.Web.Razor.dll
+F:\Actualizado\Lotify2.0-master\Lotify\bin\System.Web.WebPages.Deployment.dll
+F:\Actualizado\Lotify2.0-master\Lotify\bin\System.Web.WebPages.dll
+F:\Actualizado\Lotify2.0-master\Lotify\bin\System.Web.WebPages.Razor.dll
+F:\Actualizado\Lotify2.0-master\Lotify\bin\WebGrease.dll
+F:\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Actualizado\Lotify2.0-master\Lotify\bin\System.Web.Optimization.xml
+F:\Actualizado\Lotify2.0-master\Lotify\bin\System.Web.Helpers.xml
+F:\Actualizado\Lotify2.0-master\Lotify\bin\System.Web.Mvc.xml
+F:\Actualizado\Lotify2.0-master\Lotify\bin\System.Web.Razor.xml
+F:\Actualizado\Lotify2.0-master\Lotify\bin\System.Web.WebPages.xml
+F:\Actualizado\Lotify2.0-master\Lotify\bin\System.Web.WebPages.Deployment.xml
+F:\Actualizado\Lotify2.0-master\Lotify\bin\System.Web.WebPages.Razor.xml
+F:\Actualizado\Lotify2.0-master\Lotify\bin\Antlr3.Runtime.pdb
+F:\Actualizado\Lotify2.0-master\Lotify\bin\Newtonsoft.Json.xml
+F:\Actualizado\Lotify2.0-master\Lotify\bin\EntityFramework.xml
+F:\Actualizado\Lotify2.0-master\Lotify\bin\EntityFramework.SqlServer.xml
+F:\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.Owin.xml
+F:\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.Owin.Security.xml
+F:\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.Owin.Security.Facebook.xml
+F:\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.Owin.Security.Google.xml
+F:\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.Owin.Security.Twitter.xml
+F:\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\Actualizado\Lotify2.0-master\Lotify\bin\es\System.Web.Helpers.resources.dll
+F:\Actualizado\Lotify2.0-master\Lotify\bin\es\System.Web.Mvc.resources.dll
+F:\Actualizado\Lotify2.0-master\Lotify\bin\es\System.Web.Razor.resources.dll
+F:\Actualizado\Lotify2.0-master\Lotify\bin\es\System.Web.WebPages.resources.dll
+F:\Actualizado\Lotify2.0-master\Lotify\bin\es\System.Web.WebPages.Deployment.resources.dll
+F:\Actualizado\Lotify2.0-master\Lotify\bin\es\System.Web.WebPages.Razor.resources.dll
+F:\Actualizado\Lotify2.0-master\Lotify\bin\es\EntityFramework.resources.dll
+F:\Actualizado\Lotify2.0-master\Lotify\bin\es\EntityFramework.SqlServer.resources.dll
+F:\Actualizado\Lotify2.0-master\Lotify\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+F:\Actualizado\Lotify2.0-master\Lotify\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+F:\Actualizado\Lotify2.0-master\Lotify\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+F:\Actualizado\Lotify2.0-master\Lotify\bin\es\Microsoft.Owin.resources.dll
+F:\Actualizado\Lotify2.0-master\Lotify\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+F:\Actualizado\Lotify2.0-master\Lotify\bin\es\Microsoft.Owin.Security.resources.dll
+F:\Actualizado\Lotify2.0-master\Lotify\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+F:\Actualizado\Lotify2.0-master\Lotify\bin\es\Microsoft.Owin.Security.Google.resources.dll
+F:\Actualizado\Lotify2.0-master\Lotify\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+F:\Actualizado\Lotify2.0-master\Lotify\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+F:\Actualizado\Lotify2.0-master\Lotify\obj\Debug\Lotify.csprojResolveAssemblyReference.cache
+F:\Actualizado\Lotify2.0-master\Lotify\obj\Debug\Lotify.Migrations.First.resources
+F:\Actualizado\Lotify2.0-master\Lotify\obj\Debug\Lotify.Migrations.LotifyDB.resources
+F:\Actualizado\Lotify2.0-master\Lotify\obj\Debug\Lotify.csproj.GenerateResource.Cache
+F:\Actualizado\Lotify2.0-master\Lotify\obj\Debug\Lotify.dll
+F:\Actualizado\Lotify2.0-master\Lotify\obj\Debug\Lotify.pdb
+C:\Users\ALEX REYNOSO\Documents\Actualizado\Lotify2.0-master\Lotify\bin\roslyn\csc.exe
+C:\Users\ALEX REYNOSO\Documents\Actualizado\Lotify2.0-master\Lotify\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ALEX REYNOSO\Documents\Actualizado\Lotify2.0-master\Lotify\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ALEX REYNOSO\Documents\Actualizado\Lotify2.0-master\Lotify\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ALEX REYNOSO\Documents\Actualizado\Lotify2.0-master\Lotify\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ALEX REYNOSO\Documents\Actualizado\Lotify2.0-master\Lotify\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ALEX REYNOSO\Documents\Actualizado\Lotify2.0-master\Lotify\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ALEX REYNOSO\Documents\Actualizado\Lotify2.0-master\Lotify\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ALEX REYNOSO\Documents\Actualizado\Lotify2.0-master\Lotify\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ALEX REYNOSO\Documents\Actualizado\Lotify2.0-master\Lotify\bin\roslyn\vbc.exe
+C:\Users\ALEX REYNOSO\Documents\Actualizado\Lotify2.0-master\Lotify\bin\roslyn\VBCSCompiler.exe
+C:\Users\ALEX REYNOSO\Documents\Actualizado\Lotify2.0-master\Lotify\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ALEX REYNOSO\Documents\Actualizado\Lotify2.0-master\Lotify\bin\Lotify.dll.config
+C:\Users\ALEX REYNOSO\Documents\Actualizado\Lotify2.0-master\Lotify\bin\Lotify.dll
+C:\Users\ALEX REYNOSO\Documents\Actualizado\Lotify2.0-master\Lotify\bin\Lotify.pdb
+C:\Users\ALEX REYNOSO\Documents\Actualizado\Lotify2.0-master\Lotify\bin\Antlr3.Runtime.dll
+C:\Users\ALEX REYNOSO\Documents\Actualizado\Lotify2.0-master\Lotify\bin\EntityFramework.dll
+C:\Users\ALEX REYNOSO\Documents\Actualizado\Lotify2.0-master\Lotify\bin\EntityFramework.SqlServer.dll
+C:\Users\ALEX REYNOSO\Documents\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ALEX REYNOSO\Documents\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ALEX REYNOSO\Documents\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ALEX REYNOSO\Documents\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ALEX REYNOSO\Documents\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.Owin.dll
+C:\Users\ALEX REYNOSO\Documents\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ALEX REYNOSO\Documents\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ALEX REYNOSO\Documents\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.Owin.Security.dll
+C:\Users\ALEX REYNOSO\Documents\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ALEX REYNOSO\Documents\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ALEX REYNOSO\Documents\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ALEX REYNOSO\Documents\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ALEX REYNOSO\Documents\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ALEX REYNOSO\Documents\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ALEX REYNOSO\Documents\Actualizado\Lotify2.0-master\Lotify\bin\MySql.Data.dll
+C:\Users\ALEX REYNOSO\Documents\Actualizado\Lotify2.0-master\Lotify\bin\MySql.Data.Entity.EF6.dll
+C:\Users\ALEX REYNOSO\Documents\Actualizado\Lotify2.0-master\Lotify\bin\Newtonsoft.Json.dll
+C:\Users\ALEX REYNOSO\Documents\Actualizado\Lotify2.0-master\Lotify\bin\Owin.dll
+C:\Users\ALEX REYNOSO\Documents\Actualizado\Lotify2.0-master\Lotify\bin\System.Web.Helpers.dll
+C:\Users\ALEX REYNOSO\Documents\Actualizado\Lotify2.0-master\Lotify\bin\System.Web.Mvc.dll
+C:\Users\ALEX REYNOSO\Documents\Actualizado\Lotify2.0-master\Lotify\bin\System.Web.Optimization.dll
+C:\Users\ALEX REYNOSO\Documents\Actualizado\Lotify2.0-master\Lotify\bin\System.Web.Razor.dll
+C:\Users\ALEX REYNOSO\Documents\Actualizado\Lotify2.0-master\Lotify\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ALEX REYNOSO\Documents\Actualizado\Lotify2.0-master\Lotify\bin\System.Web.WebPages.dll
+C:\Users\ALEX REYNOSO\Documents\Actualizado\Lotify2.0-master\Lotify\bin\System.Web.WebPages.Razor.dll
+C:\Users\ALEX REYNOSO\Documents\Actualizado\Lotify2.0-master\Lotify\bin\WebGrease.dll
+C:\Users\ALEX REYNOSO\Documents\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ALEX REYNOSO\Documents\Actualizado\Lotify2.0-master\Lotify\bin\System.Web.Optimization.xml
+C:\Users\ALEX REYNOSO\Documents\Actualizado\Lotify2.0-master\Lotify\bin\System.Web.Helpers.xml
+C:\Users\ALEX REYNOSO\Documents\Actualizado\Lotify2.0-master\Lotify\bin\System.Web.Mvc.xml
+C:\Users\ALEX REYNOSO\Documents\Actualizado\Lotify2.0-master\Lotify\bin\System.Web.Razor.xml
+C:\Users\ALEX REYNOSO\Documents\Actualizado\Lotify2.0-master\Lotify\bin\System.Web.WebPages.xml
+C:\Users\ALEX REYNOSO\Documents\Actualizado\Lotify2.0-master\Lotify\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ALEX REYNOSO\Documents\Actualizado\Lotify2.0-master\Lotify\bin\System.Web.WebPages.Razor.xml
+C:\Users\ALEX REYNOSO\Documents\Actualizado\Lotify2.0-master\Lotify\bin\Antlr3.Runtime.pdb
+C:\Users\ALEX REYNOSO\Documents\Actualizado\Lotify2.0-master\Lotify\bin\Newtonsoft.Json.xml
+C:\Users\ALEX REYNOSO\Documents\Actualizado\Lotify2.0-master\Lotify\bin\EntityFramework.xml
+C:\Users\ALEX REYNOSO\Documents\Actualizado\Lotify2.0-master\Lotify\bin\EntityFramework.SqlServer.xml
+C:\Users\ALEX REYNOSO\Documents\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ALEX REYNOSO\Documents\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ALEX REYNOSO\Documents\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ALEX REYNOSO\Documents\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.Owin.xml
+C:\Users\ALEX REYNOSO\Documents\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ALEX REYNOSO\Documents\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.Owin.Security.xml
+C:\Users\ALEX REYNOSO\Documents\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ALEX REYNOSO\Documents\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ALEX REYNOSO\Documents\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ALEX REYNOSO\Documents\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ALEX REYNOSO\Documents\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ALEX REYNOSO\Documents\Actualizado\Lotify2.0-master\Lotify\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ALEX REYNOSO\Documents\Actualizado\Lotify2.0-master\Lotify\bin\es\System.Web.Helpers.resources.dll
+C:\Users\ALEX REYNOSO\Documents\Actualizado\Lotify2.0-master\Lotify\bin\es\System.Web.Mvc.resources.dll
+C:\Users\ALEX REYNOSO\Documents\Actualizado\Lotify2.0-master\Lotify\bin\es\System.Web.Razor.resources.dll
+C:\Users\ALEX REYNOSO\Documents\Actualizado\Lotify2.0-master\Lotify\bin\es\System.Web.WebPages.resources.dll
+C:\Users\ALEX REYNOSO\Documents\Actualizado\Lotify2.0-master\Lotify\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\ALEX REYNOSO\Documents\Actualizado\Lotify2.0-master\Lotify\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\ALEX REYNOSO\Documents\Actualizado\Lotify2.0-master\Lotify\bin\es\EntityFramework.resources.dll
+C:\Users\ALEX REYNOSO\Documents\Actualizado\Lotify2.0-master\Lotify\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\ALEX REYNOSO\Documents\Actualizado\Lotify2.0-master\Lotify\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\ALEX REYNOSO\Documents\Actualizado\Lotify2.0-master\Lotify\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\ALEX REYNOSO\Documents\Actualizado\Lotify2.0-master\Lotify\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\ALEX REYNOSO\Documents\Actualizado\Lotify2.0-master\Lotify\bin\es\Microsoft.Owin.resources.dll
+C:\Users\ALEX REYNOSO\Documents\Actualizado\Lotify2.0-master\Lotify\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\ALEX REYNOSO\Documents\Actualizado\Lotify2.0-master\Lotify\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\ALEX REYNOSO\Documents\Actualizado\Lotify2.0-master\Lotify\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\ALEX REYNOSO\Documents\Actualizado\Lotify2.0-master\Lotify\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\ALEX REYNOSO\Documents\Actualizado\Lotify2.0-master\Lotify\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\ALEX REYNOSO\Documents\Actualizado\Lotify2.0-master\Lotify\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\ALEX REYNOSO\Documents\Actualizado\Lotify2.0-master\Lotify\obj\Debug\Lotify.csprojResolveAssemblyReference.cache
+C:\Users\ALEX REYNOSO\Documents\Actualizado\Lotify2.0-master\Lotify\obj\Debug\Lotify.Migrations.First.resources
+C:\Users\ALEX REYNOSO\Documents\Actualizado\Lotify2.0-master\Lotify\obj\Debug\Lotify.Migrations.LotifyDB.resources
+C:\Users\ALEX REYNOSO\Documents\Actualizado\Lotify2.0-master\Lotify\obj\Debug\Lotify.csproj.GenerateResource.Cache
+C:\Users\ALEX REYNOSO\Documents\Actualizado\Lotify2.0-master\Lotify\obj\Debug\Lotify.dll
+C:\Users\ALEX REYNOSO\Documents\Actualizado\Lotify2.0-master\Lotify\obj\Debug\Lotify.pdb
+C:\Users\DJosuHe\Documents\GitHub\Lotify\Lotify\obj\Debug\Lotify.csprojResolveAssemblyReference.cache
+C:\Users\DJosuHe\Documents\GitHub\Lotify\Lotify\obj\Debug\Lotify.Migrations.First.resources
+C:\Users\DJosuHe\Documents\GitHub\Lotify\Lotify\obj\Debug\Lotify.Migrations.LotifyDB.resources
+C:\Users\DJosuHe\Documents\GitHub\Lotify\Lotify\obj\Debug\Lotify.csproj.GenerateResource.Cache
+C:\Users\DJosuHe\Documents\GitHub\Lotify\Lotify\obj\Debug\Lotify.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify\Lotify\obj\Debug\Lotify.pdb
+C:\Users\DJosuHe\Documents\GitHub\Lotify\Lotify\bin\roslyn\csc.exe
+C:\Users\DJosuHe\Documents\GitHub\Lotify\Lotify\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify\Lotify\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify\Lotify\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify\Lotify\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify\Lotify\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DJosuHe\Documents\GitHub\Lotify\Lotify\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DJosuHe\Documents\GitHub\Lotify\Lotify\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify\Lotify\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify\Lotify\bin\roslyn\vbc.exe
+C:\Users\DJosuHe\Documents\GitHub\Lotify\Lotify\bin\roslyn\VBCSCompiler.exe
+C:\Users\DJosuHe\Documents\GitHub\Lotify\Lotify\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DJosuHe\Documents\GitHub\Lotify\Lotify\bin\Lotify.dll.config
+C:\Users\DJosuHe\Documents\GitHub\Lotify\Lotify\bin\Lotify.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify\Lotify\bin\Lotify.pdb
+C:\Users\DJosuHe\Documents\GitHub\Lotify\Lotify\bin\Antlr3.Runtime.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify\Lotify\bin\EntityFramework.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify\Lotify\bin\EntityFramework.SqlServer.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify\Lotify\bin\itextsharp.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify\Lotify\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify\Lotify\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify\Lotify\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify\Lotify\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify\Lotify\bin\Microsoft.Owin.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify\Lotify\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify\Lotify\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify\Lotify\bin\Microsoft.Owin.Security.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify\Lotify\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify\Lotify\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify\Lotify\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify\Lotify\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify\Lotify\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify\Lotify\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify\Lotify\bin\MySql.Data.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify\Lotify\bin\MySql.Data.Entity.EF6.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify\Lotify\bin\Newtonsoft.Json.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify\Lotify\bin\Owin.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify\Lotify\bin\System.Web.Helpers.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify\Lotify\bin\System.Web.Mvc.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify\Lotify\bin\System.Web.Optimization.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify\Lotify\bin\System.Web.Razor.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify\Lotify\bin\System.Web.WebPages.Deployment.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify\Lotify\bin\System.Web.WebPages.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify\Lotify\bin\System.Web.WebPages.Razor.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify\Lotify\bin\WebGrease.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify\Lotify\bin\itextsharp.xml
+C:\Users\DJosuHe\Documents\GitHub\Lotify\Lotify\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DJosuHe\Documents\GitHub\Lotify\Lotify\bin\System.Web.Optimization.xml
+C:\Users\DJosuHe\Documents\GitHub\Lotify\Lotify\bin\System.Web.Helpers.xml
+C:\Users\DJosuHe\Documents\GitHub\Lotify\Lotify\bin\System.Web.Mvc.xml
+C:\Users\DJosuHe\Documents\GitHub\Lotify\Lotify\bin\System.Web.Razor.xml
+C:\Users\DJosuHe\Documents\GitHub\Lotify\Lotify\bin\System.Web.WebPages.xml
+C:\Users\DJosuHe\Documents\GitHub\Lotify\Lotify\bin\System.Web.WebPages.Deployment.xml
+C:\Users\DJosuHe\Documents\GitHub\Lotify\Lotify\bin\System.Web.WebPages.Razor.xml
+C:\Users\DJosuHe\Documents\GitHub\Lotify\Lotify\bin\Antlr3.Runtime.pdb
+C:\Users\DJosuHe\Documents\GitHub\Lotify\Lotify\bin\Newtonsoft.Json.xml
+C:\Users\DJosuHe\Documents\GitHub\Lotify\Lotify\bin\EntityFramework.xml
+C:\Users\DJosuHe\Documents\GitHub\Lotify\Lotify\bin\EntityFramework.SqlServer.xml
+C:\Users\DJosuHe\Documents\GitHub\Lotify\Lotify\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\DJosuHe\Documents\GitHub\Lotify\Lotify\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\DJosuHe\Documents\GitHub\Lotify\Lotify\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\DJosuHe\Documents\GitHub\Lotify\Lotify\bin\Microsoft.Owin.xml
+C:\Users\DJosuHe\Documents\GitHub\Lotify\Lotify\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\DJosuHe\Documents\GitHub\Lotify\Lotify\bin\Microsoft.Owin.Security.xml
+C:\Users\DJosuHe\Documents\GitHub\Lotify\Lotify\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\DJosuHe\Documents\GitHub\Lotify\Lotify\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\DJosuHe\Documents\GitHub\Lotify\Lotify\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\DJosuHe\Documents\GitHub\Lotify\Lotify\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\DJosuHe\Documents\GitHub\Lotify\Lotify\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\DJosuHe\Documents\GitHub\Lotify\Lotify\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\DJosuHe\Documents\GitHub\Lotify\Lotify\bin\es\System.Web.Helpers.resources.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify\Lotify\bin\es\System.Web.Mvc.resources.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify\Lotify\bin\es\System.Web.Razor.resources.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify\Lotify\bin\es\System.Web.WebPages.resources.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify\Lotify\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify\Lotify\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify\Lotify\bin\es\EntityFramework.resources.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify\Lotify\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify\Lotify\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify\Lotify\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify\Lotify\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify\Lotify\bin\es\Microsoft.Owin.resources.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify\Lotify\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify\Lotify\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify\Lotify\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify\Lotify\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify\Lotify\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\DJosuHe\Documents\GitHub\Lotify\Lotify\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll

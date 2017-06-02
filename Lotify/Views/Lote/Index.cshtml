@@ -1,0 +1,60 @@
+﻿<div ng-controller="LoteController">
+
+    <div class="content-grid mdl-grid">
+
+        <div class="mdl-cell mdl-cell--1-col"></div>
+
+        <div class="mdl-cell mdl-cell--10-col" ng-hide="mostrar">
+            <table id="lotifyTable" class="mdl-data-table mdl-shadow--2dp" cellspacing="0" width="100%" datatable="ng">
+                <thead>
+                    <tr>
+                        <th>NUMERO DE LOTE</th>
+                        <th>PRECIO</th>
+                        <th>MEDIDA</th>
+                        <th>ESTADO DEL LOTE</th>
+                        <th>LOTIFICADORA</th>
+                        <th>MANZANA</th>
+                        <th>AREA</th>
+                        <th>ACCIONES</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr ng-repeat="r in resultados">
+                        <td>{{r.Id}}</td>
+                        <td>{{r.Precio}}</td>
+                        <td>{{r.Medida.Ancho + " x " + r.Medida.Largo }}</td>
+                        <td>{{r.EstadoLote.NombreEstado }}</td>
+                        <td>{{r.Lotificadora.NombreLotificadora }}</td>
+                        <td>{{r.Manzana.NombreManzana}}</td>
+                        <td>{{r.Area.NombreArea}}</td>
+                        <td>
+                            <button class="mdl-button mdl-button--icon" id="abrir-dialog" ng-click="selectElementDelete(r.Id)">
+                                <i class="material-icons">delete</i>
+                            </button>
+                            <a href="@Url.Action("Edit", "Lote")/{{r.Id}}" class="mdl-button mdl-button--icon">
+                                <i class="material-icons">mode_edit</i>
+                            </a>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
+        <div class="mdl-cell mdl-cell--1-col"></div>
+
+    </div>
+
+
+    <dialog class="mdl-dialog">
+        <h5 class="mdl-dialog__title">Deseas Eliminar El Registro?</h5>
+        <div class="mdl-dialog__actions">
+            <button type="button" class="mdl-button siEliminar" ng-click="delete()">Si</button>
+            <button type="button" class="mdl-button noEliminar" ng-init="datos.Id = '' ">No</button>
+        </div>
+    </dialog>
+
+</div>
+
+@section Scripts {
+    <script src="~/Scripts/app/controllers/Lotes/LoteController.js"></script>
+}

@@ -1,0 +1,77 @@
+﻿
+@model Lotify.Models.Lotes.LoteViewModels
+<div class="content-grid mdl-grid">
+    <div class="mdl-cell mdl-cell--3-col"></div>
+    <div class="mdl-cell mdl-cell--6-col">
+
+        @using (Html.BeginForm("Edit", "Lote", FormMethod.Post))
+        {
+            <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
+                @Html.LabelFor(m => m.Precio, new { @class = "mdl-textfield__label" })
+                @Html.TextBoxFor(m => m.Precio, new { @class = "mdl-textfield__input" })
+            </div>
+
+            <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
+                <select name="MedidaId" id="MedidaId">
+                    @foreach (var item in Model.Medidas)
+                    {
+                        <option value="@item.Id">@item.Largo x @item.Ancho</option>
+                    }
+                </select>
+            </div>
+
+            <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
+                <select name="EstadoLoteId" id="EstadoLoteId">
+                    @foreach (var item in Model.EstadoLote)
+                    {
+                        <option value="@item.Id">@item.NombreEstado</option>
+
+                    }
+                </select>
+            </div>
+
+            <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
+                <select name="LotificadoraId" id="LotificadoraId">
+                    @foreach (var item in Model.Lotificadora)
+                    {
+                        <option value="@item.Id">@item.NombreLotificadora</option>
+                    }
+                </select>
+            </div>
+
+            <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
+                <select name="ManzanaId" id="ManzanaId">
+                    @foreach (var item in Model.Manzana)
+                    {
+                        <option value="@item.Id">@item.NombreManzana</option>
+
+                    }
+                </select>
+            </div>
+
+            <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
+                <select name="AreaId" id="AreaId">
+                    @foreach (var item in Model.Area)
+                    {
+                        <option value="@item.Id">@item.NombreArea</option>
+
+                    }
+                </select>
+            </div>
+
+            <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
+                <select name="InteresId" id="InteresId">
+                    @foreach (var item in Model.Interes)
+                    {
+                        <option value="@item.Id">@item.TasaInteres</option>
+
+                    }
+                </select>
+            </div>
+
+            <input type="submit" class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect mdl-button--raised"
+                   value="Editar" />
+        }
+    </div>
+    <div class="mdl-cell mdl-cell--3-col"></div>
+</div>

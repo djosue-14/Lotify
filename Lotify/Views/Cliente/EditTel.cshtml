@@ -1,0 +1,39 @@
+﻿@model Lotify.Models.Telefonos.TelefonoClienteViewModels
+<div class="content-grid mdl-grid">
+
+    <div class="mdl-cell mdl-cell--4-col"></div>
+
+    <div class="mdl-cell mdl-cell--4-col">
+
+
+        @using (Html.BeginForm("EditTel", "Cliente", FormMethod.Post))
+        {
+            <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
+                @Html.LabelFor(m => m.NumeroTelefono, new { @class = "mdl-textfield__label" })
+                @Html.TextBoxFor(m => m.NumeroTelefono, new { @class = "mdl-textfield__input" })
+            </div>
+
+            <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
+                <label>Compania Telefonica</label>
+                <select name="CompaniaTelefonoId" id="CompaniaTelefonoId">
+                    @foreach (var item in Model.Companias)
+                    {
+                        if (@item.Id == Model.CompaniaTelefonoId)
+                        {
+                            <option value="@item.Id" selected="selected">@item.NombreCompania</option>
+                        }
+                        else
+                        {
+                            <option value="@item.Id">@item.NombreCompania</option>
+                        }
+                    }
+                </select>
+            </div>
+
+            <input type="submit" class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect mdl-button--raised"
+                   value="Actualizar" />
+        }
+    </div>
+    <div class="mdl-cell mdl-cell--4-col"></div>
+</div>
+

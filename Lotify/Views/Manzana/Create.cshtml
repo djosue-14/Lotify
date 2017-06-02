@@ -1,0 +1,16 @@
+﻿@model Lotify.Models.Lotes.ManzanaViewModels
+<div class="content-grid mdl-grid">
+    <div class="mdl-cell mdl-cell--4-col"></div>
+    <div class="mdl-cell mdl-cell--4-col">
+        @using (Html.BeginForm("Create", "Manzana", FormMethod.Post))
+        {
+            <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
+                @Html.LabelFor(m => m.NombreManzana, new { @class = "mdl-textfield__label" })
+                @Html.TextBoxFor(m => m.NombreManzana, new { @class = "mdl-textfield__input" })
+            </div>
+            <input type="submit" class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect mdl-button--raised"
+                   value="Registrarse" />
+        }
+    </div>
+    <div class="mdl-cell mdl-cell--4-col"></div>
+</div>

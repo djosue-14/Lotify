@@ -1,0 +1,53 @@
+﻿<div ng-controller="VentaController">
+
+    <div class="content-grid mdl-grid">
+
+        <div class="mdl-cell mdl-cell--3-col"></div>
+
+        <div class="mdl-cell mdl-cell--6-col" ng-hide="mostrar">
+            <table id="lotifyTable" class="mdl-data-table mdl-shadow--2dp" cellspacing="0" width="100%" datatable="ng">
+                <thead>
+                    <tr>
+                        <th>NUMERO DE VENTA</th>
+                        <th>FECHA</th>
+                        <th>SALDO</th>
+                        <th>Cliente</th>
+                        <th>ACCIONES</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr ng-repeat="r in resultados">
+                        <td>{{r.Id}}</td>
+                        <td>{{r.FechaVenta | date: 'dd/MM/yyyy'}}</td>
+                        <td>{{r.Total | currency: "Q " : 2}}</td>
+                        <td>{{r.Cliente.Nombre + " " + r.Cliente.Apellido}}</td>
+                        <td>
+                            <a href="@Url.Action("Edit", "Venta")/{{r.Id}}" class="mdl-button mdl-button--icon">
+                                <i class="material-icons">mode_edit</i>
+                            </a>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
+        <div class="mdl-cell mdl-cell--3-col"></div>
+
+    </div>
+
+
+    <dialog class="mdl-dialog">
+        <h5 class="mdl-dialog__title">Deseas Eliminar El Registro?</h5>
+        <div class="mdl-dialog__actions">
+            <button type="button" class="mdl-button siEliminar" ng-click="delete()">Si</button>
+            <button type="button" class="mdl-button noEliminar" ng-init="datos.Id = '' ">No</button>
+        </div>
+    </dialog>
+
+</div>
+
+@section Scripts {
+    <script src="~/Scripts/app/controllers/Ventas/VentaController.js"></script>
+}
+
+

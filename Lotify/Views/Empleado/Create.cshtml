@@ -1,0 +1,77 @@
+﻿@model Lotify.Models.Empleados.EmpleadoViewModels
+<div class="content-grid mdl-grid">
+
+    <div class="mdl-cell mdl-cell--3-col"></div>
+
+    <div class="mdl-cell mdl-cell--8-col">
+        @using (Html.BeginForm("Create", "Empleado", FormMethod.Post))
+        {
+            @Html.ValidationSummary("", new { @class = "text-danger" })
+            <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
+                @Html.LabelFor(m => m.Nombre, new { @class = "mdl-textfield__label" })
+                @Html.TextBoxFor(m => m.Nombre, new { @class = "mdl-textfield__input" })
+            </div>
+            <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
+                @Html.LabelFor(m => m.Apellido, new { @class = "mdl-textfield__label" })
+                @Html.TextBoxFor(m => m.Apellido, new { @class = "mdl-textfield__input" })
+            </div>
+            <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
+                @Html.LabelFor(m => m.Dpi, new { @class = "mdl-textfield__label" })
+                @Html.TextBoxFor(m => m.Dpi, new { @class = "mdl-textfield__input" })
+            </div>
+            <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
+                <label>Genero</label>
+                <select name="Genero" id="Genero">
+                    <option value="M">Masculino</option>
+                    <option value="F">Femenino</option>
+                </select>
+            </div>
+            <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
+                @Html.LabelFor(m => m.Direccion, new { @class = "mdl-textfield__label" })
+                @Html.TextBoxFor(m => m.Direccion, new { @class = "mdl-textfield__input" })
+            </div>
+
+            <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
+                <label>Fecha de Nacimiento</label>
+                @Html.EditorFor(m => m.FechaNacimiento, new { @type = "date" })
+            </div>
+
+            <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
+                <label>Cargo</label>
+                <select name="CargoEmpleadoId" id="CargoEmpleadoId">
+                    @foreach (var item in Model.CargoEmpleado)
+                    {
+                        <option value="@item.Id">@item.NombreCargo</option>
+                    }
+                </select>
+            </div>
+
+            <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
+                @Html.LabelFor(m => m.Email, new { @class = "mdl-textfield__label" })
+                @Html.TextBoxFor(m => m.Email, new { @class = "mdl-textfield__input" })
+            </div>
+            <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
+                @Html.LabelFor(m => m.Password, new { @class = "mdl-textfield__label" })
+                @Html.PasswordFor(m => m.Password, new { @class = "mdl-textfield__input" })
+            </div>
+            //telefono
+            <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
+                @Html.LabelFor(m => m.NumeroTelefono, new { @class = "mdl-textfield__label" })
+                @Html.TextBoxFor(m => m.NumeroTelefono, new { @class = "mdl-textfield__input" })
+            </div>
+            <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
+                <label>Compania Telefonica</label>
+                <select name="CompaniaTelefonoId" id="CompaniaTelefonoId">
+                    @foreach (var item in Model.Companias)
+                    {
+                        <option value="@item.Id">@item.NombreCompania</option>
+                    }
+                </select>
+            </div>
+
+            <input type="submit" class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect mdl-button--raised"
+                   value="Registrarse" />
+        }
+    </div>
+    <div class="mdl-cell mdl-cell--1-col"></div>
+</div>

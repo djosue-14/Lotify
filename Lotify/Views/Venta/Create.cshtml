@@ -1,0 +1,87 @@
+﻿<div ng-controller="VentaController">
+
+    <div class="content-grid mdl-grid">
+
+        <div class="mdl-cell mdl-cell-4-col"></div>
+
+        <div class="mdl-cell mdl-cell--5-col">
+            <form ng-submit="save()">
+                <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
+                    <label for="Financiamiento">Financiamiento: </label>
+                    <select ng-options="c.Id as c.Plazo for c in dependencia.Financiamiento" 
+                        ng-model="model.TipoFinanciamientoId" id="Financiamiento" ng-change="setPlazo()">
+                    </select>
+                </div>
+                <input type="submit" class="mdl-button mdl-js-button mdl-button--raised mdl-button--colored mdl-js-ripple-effect"
+                       value="Comprar" />
+            </form>
+            <br />
+            <table class="mdl-data-table mdl-shadow--2dp" cellspacing="0" width="80%">
+                <thead>
+                    <tr>
+                        <th>CUOTA</th>
+                        <th>INTERES TOTAL</th>
+                        <th>TOTAL</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>{{calculo.cuota | currency : "Q "}}</td>
+                        <td>{{calculo.monto | currency : "Q "}}</td>
+                        <td>{{calculo.total | currency : "Q "}}</td>
+                    </tr>
+                </tbody>
+            </table>
+
+        </div>
+
+        <div class="mdl-cell mdl-cell--3-col">
+        </div>
+
+            <div class="demo-card-square mdl-card mdl-cell mdl-cell--3-col mdl-shadow--4dp"
+                 ng-repeat="item in lotes | startFrom:currentPage*pageSize | limitTo:pageSize">
+
+                <div class="mdl-card__title mdl-card--expand mdl-color-text--white"
+                     style="background: url(' {{ item.ImageUrl }} ') center / cover;">
+                    <h4>
+                        Lote: {{item.NumeroLote}}<br>
+                        Precio: {{item.Precio | currency : "Q " : 2}}<br>
+                    </h4>
+                </div>
+                <div class="mdl-card__supporting-text mdl-color-text--blue-grey-900">
+                    Medida: {{item.Medida.Ancho}}m x {{item.Medida.Largo}}m<br>
+                    Manzana: {{item.Manzana.NombreManzana}}<br>
+                    Area: {{item.Area.NombreArea}}<br>
+                </div>
+                <div class="mdl-card__actions mdl-card--border">
+                    <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect mdl-button--icon" 
+                       ng-click="selectLote(item.Id)">
+                        <i class="material-icons" aria-hidden="true">add_shopping_cart</i>
+                    </a>
+                </div>
+            </div>
+
+        <div class="mdl-cell mdl-cell--12-col mdl-cell--5-offset">
+            <button ng-disabled="currentPage == 0" ng-click="currentPage=currentPage-1" 
+                    class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--icon">
+                <i aria-hidden="true" class="material-icons">navigate_before</i>
+            </button>
+            {{currentPage+1}}/{{numberOfPages()}}
+            <button ng-disabled="currentPage >= lotes.length/pageSize - 1" ng-click="currentPage=currentPage+1"
+                    class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--icon">
+                <i aria-hidden="true" class="material-icons">navigate_next</i>
+            </button>
+        </div>
+        
+    </div>
+
+    <div id="snack-messaje" class="mdl-js-snackbar mdl-snackbar">
+        <div class="mdl-snackbar__text"></div>
+        <button class="mdl-snackbar__action" type="button"></button>
+    </div>
+
+</div>
+
+        @section Scripts {
+            <script src="~/Scripts/app/controllers/Ventas/VentaController.js"></script>
+        }
