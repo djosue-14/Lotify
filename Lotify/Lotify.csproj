@@ -274,6 +274,7 @@
     <Content Include="Content\font-awesome\fonts\fontawesome-webfont.svg" />
     <Content Include="Content\mdl\dataTables.material.min.css" />
     <Content Include="Content\mdl\material.blue_grey-blue.min.css" />
+    <Content Include="Content\mdl\material.min.css" />
     <Content Include="Content\style.css" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
