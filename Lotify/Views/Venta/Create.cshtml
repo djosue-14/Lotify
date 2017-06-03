@@ -42,7 +42,7 @@
                  ng-repeat="item in lotes | startFrom:currentPage*pageSize | limitTo:pageSize">
 
                 <div class="mdl-card__title mdl-card--expand mdl-color-text--white"
-                     style="background: url(' {{ item.ImageUrl }} ') center / cover;">
+                     style="background: url(' {{item.ImageUrl }} ') center / cover;">
                     <h4>
                         Lote: {{item.NumeroLote}}<br>
                         Precio: {{item.Precio | currency : "Q " : 2}}<br>

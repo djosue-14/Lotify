@@ -130,24 +130,25 @@ namespace Lotify.Controllers.Lotes
                 if(model.ImageUpload != null && model.ImageUpload.ContentLength > 0)
                 {
                     //Invertimos el nombre de la imagen y tomamos la extension de esta
-                    string extension = Reverse(model.ImageUpload.FileName).Split('.')[0];
-                    extension = Reverse(extension); //invertimos nuevamente la cadena generada en la linea anterior
-                    string nameImage;
+                    //string extension = Reverse(model.ImageUpload.FileName).Split('.')[0];
+                    //extension = Reverse(extension); //invertimos nuevamente la cadena generada en la linea anterior
+                    //string nameImage;
 
-                    string time = DateTime.UtcNow.ToString();
-                    time = time.Replace("/", "_");
-                    time = time.Replace(" ", "_");
-                    time = time.Replace(":", "_");
-                    time = time.Replace(".", "");
+                    //string time = DateTime.UtcNow.ToString();
+                    //time = time.Replace("/", "_");
+                    //time = time.Replace(" ", "_");
+                    //time = time.Replace(":", "_");
+                    //time = time.Replace(".", "");
 
                     //Le damos un nuevo nombre a la imagen, en base al fecha y hora para que no se repitan urls.
-                    nameImage = time + "." + extension;
+                    //nameImage = time + "." + extension;
 
-                    string uploadDir = "../Images/Lotes/"; //Ruta donde se guardara.
-                    var imagePath = Path.Combine(Server.MapPath(uploadDir), nameImage);//generamos el path
+                    string uploadDir = "~/Images/Lotes/"; //Ruta donde se guardara.
+                    //var imagePath = Path.Combine(Server.MapPath(uploadDir), nameImage);//generamos el path
+                    var imagePath = Path.Combine(Server.MapPath(uploadDir), model.ImageUpload.FileName);
 
                     //generamos la url a guardar en la base de datos.
-                    var imageUrl = Path.Combine(uploadDir, nameImage);
+                    var imageUrl = Path.Combine(uploadDir, model.ImageUpload.FileName);
                     model.ImageUpload.SaveAs(imagePath);//guardamos la imagen.
 
                     Lotes.ImageUrl = imageUrl;//por ultimo la pasamos la url al modelo para ser guardada en la BD.
