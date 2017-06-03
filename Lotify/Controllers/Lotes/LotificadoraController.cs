@@ -9,6 +9,7 @@ using System.Web.Mvc;
 
 namespace Lotify.Controllers.Lotes
 {
+    [Authorize]
     public class LotificadoraController : Controller
     {
         // GET: Lotificadora

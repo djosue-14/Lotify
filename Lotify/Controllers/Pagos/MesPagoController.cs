@@ -8,6 +8,7 @@ using System.Web.Mvc;
 
 namespace Lotify.Controllers.Pagos
 {
+    [Authorize]
     public class MesPagoController : Controller
     {
         // GET: MesPagos

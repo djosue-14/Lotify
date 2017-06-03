@@ -8,6 +8,7 @@ using System.Web.Mvc;
 
 namespace Lotify.Controllers.Lotes
 {
+    [Authorize]
     public class AreaController : Controller
     {
         // GET: Area

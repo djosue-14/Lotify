@@ -1,9 +1,238 @@
 ﻿@using Microsoft.AspNet.Identity
 @if (Request.IsAuthenticated)
 {
+    <!-- Right aligned menu below button -->
+
+    <button id="menu-empleado"
+            class="mdl-button mdl-js-button colorblanco">
+        <i class="material-icons">more_vert</i>
+        Empleados
+    </button>
+
+    <button id="menu-clientes"
+            class="mdl-button mdl-js-button colorblanco">
+        <i class="material-icons">more_vert</i>
+        Clientes
+    </button>
+
+                    <button id="menu-lotes"
+                            class="mdl-button mdl-js-button colorblanco">
+                        <i class="material-icons">more_vert</i>
+                        Lotes
+                    </button>
+
+                    <button id="menu-vistalotes"
+                            class="mdl-button mdl-js-button colorblanco">
+                        <i class="material-icons">more_vert</i>
+                        Supervisar
+                    </button>
+
+                    <button id="menu-ventas"
+                            class="mdl-button mdl-js-button colorblanco">
+                        <i class="material-icons">more_vert</i>
+                        Ventas
+                    </button>
+
+                    <!-- MENU DESPEGABLE DE EMPLEADOS -->
+                    <ul class="mdl-menu mdl-menu--bottom-right mdl-js-menu mdl-js-ripple-effect"
+                        for="menu-empleado">
+                        <li class="mdl-menu__item">
+                            <a href="@Url.Action("Create", "Empleado")"
+                               class="mdl-navigation__link mdl-color-text--blue-grey-900">
+                                Empleado Nuevo
+                            </a>
+                        </li>
+                        <li class="mdl-menu__item">
+                            <a href="@Url.Action("Create", "EstadoEmpleado")"
+                               class="mdl-navigation__link mdl-color-text--blue-grey-900">
+                                Estado Empleado
+                            </a>
+                        </li>
+                        <li class="mdl-menu__item">
+                            <a href="@Url.Action("Create", "CargoEmpleado")"
+                               class="mdl-navigation__link mdl-color-text--blue-grey-900">
+                                Cargo de Empleado
+                            </a>
+                        </li>
+                        <li class="mdl-menu__item">
+                            <a href="@Url.Action("Index", "Empleado")"
+                               class="mdl-navigation__link mdl-color-text--blue-grey-900">
+                                Lista de Empleados
+                            </a>
+                        </li>
+                        <li class="mdl-menu__item">
+                            <a href="@Url.Action("Index", "EstadoEmpleado")"
+                               class="mdl-navigation__link mdl-color-text--blue-grey-900">
+                                Lista de Estados de Empleado
+                            </a>
+                        </li>
+                        <li class="mdl-menu__item">
+                            <a href="@Url.Action("Index", "CargoEmpleado")"
+                               class="mdl-navigation__link mdl-color-text--blue-grey-900">
+                                Lista de Cargo de Empleado
+                            </a>
+                        </li>
+                    </ul>
+
+                    <!-- MENU DESPEGABLE DE CLIENTES -->
+                    <ul class="mdl-menu mdl-menu--bottom-right mdl-js-menu mdl-js-ripple-effect"
+                        for="menu-clientes">
+                        <li class="mdl-menu__item">
+                            <a href="@Url.Action("Create", "Cliente")"
+                               class="mdl-navigation__link mdl-color-text--blue-grey-900">
+                                Clientes Nuevo
+                            </a>
+                        </li>
+                        <li class="mdl-menu__item">
+                            <a href="@Url.Action("Create", "EstadoCliente")" class="mdl-navigation__link mdl-color-text--blue-grey-900">
+                                Estado de Cliente
+                            </a>
+                        </li>
+                        <li class="mdl-menu__item">
+                            <a href="@Url.Action("Index", "Cliente")" class="mdl-navigation__link mdl-color-text--blue-grey-900">
+                                Lista de Clientes
+                            </a>
+                        </li>
+                        <li class="mdl-menu__item">
+                            <a href="@Url.Action("Index", "EstadoCliente")"
+                               class="mdl-navigation__link mdl-color-text--blue-grey-900">
+                                Lista de Estados de Cliente
+                            </a>
+                        </li>
+                        <li class="mdl-menu__item">
+                            <a href="@Url.Action("Create", "CompaniaTelefono")" class="mdl-navigation__link mdl-color-text--blue-grey-900">
+                                Registrar Companias Telefonicas
+                            </a>
+                        </li>
+
+                    </ul>
+
+                    <!-- MENU DESPEGABLE DE LOTES -->
+                    <ul class="mdl-menu mdl-menu--bottom-right mdl-js-menu mdl-js-ripple-effect"
+                        for="menu-lotes">
+                        <li class="mdl-menu__item">
+                            <a href="@Url.Action("Create", "Lote")" class="mdl-navigation__link mdl-color-text--blue-grey-900">
+                                Registrar Lote
+                            </a>
+                        </li>
+                        <li class="mdl-menu__item">
+                            <a href="@Url.Action("Create", "Area")" class="mdl-navigation__link mdl-color-text--blue-grey-900">
+                                Registrar Area
+                            </a>
+
+                        </li>
+                        <li class="mdl-menu__item">
+                            <a href="@Url.Action("Create", "EstadoLote")" class="mdl-navigation__link mdl-color-text--blue-grey-900">
+                                Registrar Estado de Lote
+                            </a>
+                        </li>
+                        <li class="mdl-menu__item">
+                            <a href="@Url.Action("Create", "Lotificadora")" class="mdl-navigation__link mdl-color-text--blue-grey-900">
+                                Registrar Lotificadora
+                            </a>
+                        </li>
+                        <li class="mdl-menu__item">
+                            <a href="@Url.Action("Create", "Medida")" class="mdl-navigation__link mdl-color-text--blue-grey-900">
+                                Registrar Medidas
+                            </a>
+                        </li>
+                        <li class="mdl-menu__item">
+                            <a href="@Url.Action("Create", "Manzana")" class="mdl-navigation__link mdl-color-text--blue-grey-900">
+                                Registrar Manzana
+                            </a>
+                        </li>
+                    </ul>
+
+                    <!-- MENU DESPEGABLE DE VISTA DE LOTES -->
+                    <ul class="mdl-menu mdl-menu--bottom-right mdl-js-menu mdl-js-ripple-effect"
+                        for="menu-vistalotes">
+                        <li class="mdl-menu__item">
+                            <a href="@Url.Action("Index", "Lote")" class="mdl-navigation__link mdl-color-text--blue-grey-900">
+                                Lista de Lotes
+                            </a>
+                        </li>
+                        <li class="mdl-menu__item">
+                            <a href="@Url.Action("Index", "Area")" class="mdl-navigation__link mdl-color-text--blue-grey-900">
+                                Lista de Areas
+                            </a>
+
+                        </li>
+                        <li class="mdl-menu__item">
+                            <a href="@Url.Action("Index", "EstadoLote")" class="mdl-navigation__link mdl-color-text--blue-grey-900">
+                                Lista de Estados de Lote
+                            </a>
+                        </li>
+                        <li class="mdl-menu__item">
+                            <a href="@Url.Action("Index", "Lotificadora")" class="mdl-navigation__link mdl-color-text--blue-grey-900">
+                                Lista de Lotificadora
+                            </a>
+                        </li>
+                        <li class="mdl-menu__item">
+                            <a href="@Url.Action("Index", "Medida")" class="mdl-navigation__link mdl-color-text--blue-grey-900">
+                                Lista de Medidas
+                            </a>
+                        </li>
+                        <li class="mdl-menu__item">
+                            <a href="@Url.Action("Index", "Manzana")" class="mdl-navigation__link mdl-color-text--blue-grey-900">
+                                Lista de Manzanas
+                            </a>
+                        </li>
+                        <li class="mdl-menu__item">
+                            <a href="@Url.Action("Index", "TipoFinanciamiento")" class="mdl-navigation__link mdl-color-text--blue-grey-900">
+                                Lista de Financiamiento
+                            </a>
+                        </li>
+                        <li class="mdl-menu__item">
+                            <a href="@Url.Action("Index", "TipoPago")" class="mdl-navigation__link mdl-color-text--blue-grey-900">
+                                Lista de Tipo de Pagos
+                            </a>
+                        </li>
+                        <li class="mdl-menu__item">
+                            <a href="@Url.Action("Index", "MesPago")" class="mdl-navigation__link mdl-color-text--blue-grey-900">
+                                Lista de Meses
+                            </a>
+                        </li>
+                        <li class="mdl-menu__item">
+                            <a href="@Url.Action("Index", "CompaniaTelefono")" class="mdl-navigation__link mdl-color-text--blue-grey-900">
+                                Lista de Companias Telefonicas
+                            </a>
+                        </li>
+                    </ul>
+
+
+                    <!-- MENU DESPEGABLE DE VENTAS -->
+                    <ul class="mdl-menu mdl-menu--bottom-right mdl-js-menu mdl-js-ripple-effect"
+                        for="menu-ventas">
+                        <li class="mdl-menu__item">
+                            <a href="@Url.Action("Create", "Venta")" class="mdl-navigation__link mdl-color-text--blue-grey-900">
+                                Nueva Venta
+                            </a>
+                        </li>
+                        <li class="mdl-menu__item">
+                            <a href="@Url.Action("Index", "Venta")" class="mdl-navigation__link mdl-color-text--blue-grey-900">
+                                Ventas Realizadas
+                            </a>
+                        </li>
+                        <li class="mdl-menu__item">
+                            <a href="@Url.Action("Create", "TipoFinanciamiento")" class="mdl-navigation__link mdl-color-text--blue-grey-900">
+                                Financiamiento
+                            </a>
+                        </li>
+                        <li class="mdl-menu__item">
+                            <a href="@Url.Action("Create", "TipoPago")" class="mdl-navigation__link mdl-color-text--blue-grey-900">
+                                Tipo de Pagos
+                            </a>
+                        </li>
+                        <li class="mdl-menu__item">
+                            <a href="@Url.Action("Create", "MesPago")" class="mdl-navigation__link mdl-color-text--blue-grey-900">
+                                Meses
+                            </a>
+                        </li>
+                    </ul>
+
     using (Html.BeginForm("LogOff", "Account", FormMethod.Post, new { id = "logoutForm", @class = "navbar-right" }))
     {
-    @Html.AntiForgeryToken()
+        @Html.AntiForgeryToken()
 
 
         <a href="javascript:document.getElementById('logoutForm').submit()" class="mdl-navigation__link">Cerrar sesión</a>
@@ -11,6 +240,5 @@
 }
 else
 {
-    @Html.ActionLink("Registrarse", "Register", "Account", routeValues: null, htmlAttributes: new { id = "registerLink", @class = "mdl-navigation__link" } )
     @Html.ActionLink("Iniciar sesión", "Login", "Account", routeValues: null, htmlAttributes: new { id = "loginLink", @class = "mdl-navigation__link" } )
 }

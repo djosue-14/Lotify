@@ -13,6 +13,7 @@ using Lotify.Models.Clientes;
 
 namespace Lotify.Controllers.Ventas
 {
+    [Authorize]
     public class DetalleVentaController : Controller
     {
         private ApplicationDbContext dbCtx;
@@ -30,14 +31,23 @@ namespace Lotify.Controllers.Ventas
             return View();
         }
 
-        public ActionResult ReportePdf(int id)
+        public ActionResult Detalle(int id)
         {
-            Venta venta = dbCtx.Venta.FirstOrDefault(c => c.Id == id);
 
-            string nombrePDF = "venta"+venta.Id + ".pdf";
+            Venta venta = dbCtx.Venta.FirstOrDefault(c => c.Id == id);
+            string nombrePDF = "venta" + venta.Id + ".pdf";
             ExportarReportePDF(venta, Server.MapPath("../../Reportes/FacturaVenta/") + nombrePDF, "Factura Venta");
 
-            return RedirectToAction("Index");
+            ViewBag.Id = id;
+
+            return View();
+        }
+
+        public FileResult DisplayPDF(int id)
+        {
+            string nombrePDF = "venta" + id + ".pdf";
+
+            return File(Server.MapPath("~/Reportes/FacturaVenta/" + nombrePDF), "application/pdf");
         }
 
         public void ExportarReportePDF(Venta venta, String rutaPDF, string tituloPDF)
@@ -67,7 +77,8 @@ namespace Lotify.Controllers.Ventas
             BaseFont fuenteBaseAutor = BaseFont.CreateFont(BaseFont.TIMES_ROMAN, BaseFont.CP1252, BaseFont.NOT_EMBEDDED);
             Font fuenteAutor = new Font(fuenteBaseAutor, 12, 2, BaseColor.GRAY);
             nombreAutor.Alignment = Element.ALIGN_LEFT;
-            nombreAutor.Add(new Chunk("Nombre: "+cliente.Nombre +" "+cliente.Apellido, fuenteAutor));
+            nombreAutor.Add(new Chunk("Número: "+venta.Id, fuenteAutor));
+            nombreAutor.Add(new Chunk("\nNombre: "+cliente.Nombre +" "+cliente.Apellido, fuenteAutor));
             nombreAutor.Add(new Chunk("\nNIT: " + cliente.Dpi, fuenteAutor));
             nombreAutor.Add(new Chunk("\nFecha: "+venta.FechaVenta.ToShortDateString(), fuenteAutor));
             document.Add(nombreAutor);

@@ -128,7 +128,7 @@ app.controller('VentaController', function ($scope, $timeout, $http, appService,
             console.log(data.venta);
             console.log(status);
             if (data.venta !== null) {
-                window.location.href = '../../DetalleVenta/ReportePdf/'+data.venta;
+                window.location.href = '../../DetalleVenta/Detalle/'+data.venta;
             }
         })
         .error(function (error, status, headers, config) {

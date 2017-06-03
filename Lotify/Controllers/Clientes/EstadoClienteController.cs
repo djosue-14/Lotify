@@ -8,6 +8,7 @@ using Lotify.Models;
 
 namespace Lotify.Controllers.Clientes
 {
+    [Authorize]
     public class EstadoClienteController : Controller
     {
         private ApplicationDbContext dbCtx;

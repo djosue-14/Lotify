@@ -10,6 +10,7 @@ using System.Web.Mvc;
 
 namespace Lotify.Controllers.Clientes
 {
+    [Authorize]
     public class ClienteController : Controller
     {
         private ApplicationDbContext dbCtx;

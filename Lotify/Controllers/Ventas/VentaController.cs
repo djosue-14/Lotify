@@ -13,6 +13,7 @@ using System.Web.Security;
 
 namespace Lotify.Controllers.Ventas
 {
+    [Authorize]
     public class VentaController : Controller
     {
         private ApplicationDbContext dbCtx;
@@ -125,7 +126,7 @@ namespace Lotify.Controllers.Ventas
                 InsertDetalle(model);
 
                 //Comision.
-                //InsertComision(model);
+                InsertarComision(model, empleado.Id);
 
             }
 
@@ -182,12 +183,7 @@ namespace Lotify.Controllers.Ventas
             decimal cuota = model.precio * (topExp / downExp);
             decimal total = cuota * model.plazo;
             decimal montoInteres = total - model.precio;
-
-            //double x = (1 + Convert.ToDouble(model.interes));
-            //double topExp = Convert.ToDouble(model.interes) * Math.Pow(x, model.plazo);
-            //double downExp = Math.Pow(x, model.plazo) - 1;
-            //double total = Convert.ToDouble(model.precio) * (topExp / downExp);
-
+            
             if (ModelState.IsValid)
             {
                 return Json(new { cuota, total, montoInteres }, JsonRequestBehavior.AllowGet);
@@ -211,7 +207,33 @@ namespace Lotify.Controllers.Ventas
             dbCtx.SaveChanges();
 
             //Lote
-            //CambiarEstado(lote.Id);
+
+            CambiarEstado(lote.Id);
+        }
+
+        public void InsertarComision(VentaViewModels model, int EmpleadoId)
+        {
+            Comision comision = new Comision();
+
+            comision.Monto = model.Total * Convert.ToDecimal(0.05);
+            comision.FechaRegistrada = DateTime.Today;
+
+            comision.EmpleadoId = EmpleadoId;
+            comision.VentaId = model.Id;
+
+            dbCtx.Comision.Add(comision);
+            dbCtx.SaveChanges();
+        }
+
+        public void CambiarEstado(int id)
+        {
+            Lote lote = dbCtx.Lote.FirstOrDefault(c => c.Id == id);
+
+            EstadoLote estado = dbCtx.EstadoLote.FirstOrDefault(c => c.NombreEstado == "Vendido");
+
+            lote.EstadoLoteId = estado.Id;
+
+            dbCtx.SaveChanges();
         }
     }
 }

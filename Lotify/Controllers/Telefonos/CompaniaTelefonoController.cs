@@ -8,6 +8,7 @@ using System.Web.Mvc;
 
 namespace Lotify.Controllers.Telefonos
 {
+    [Authorize]
     public class CompaniaTelefonoController : Controller
     {
         // GET: CompaniaTelefono
