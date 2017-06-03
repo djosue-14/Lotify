@@ -287,6 +287,11 @@
     <Content Include="Images\fondo888.jpg" />
     <Content Include="Images\fondo999.jpg" />
     <Content Include="Images\laptop.jpg" />
+    <Content Include="Images\Lotes\lote1.png" />
+    <Content Include="Images\Lotes\lote2.png" />
+    <Content Include="Images\Lotes\lote3.png" />
+    <Content Include="Images\Lotes\lote4.png" />
+    <Content Include="Images\Lotes\lote5.png" />
     <Content Include="Images\welcome_card.jpg" />
     <Content Include="Scripts\angular\angular-datatables.js" />
     <Content Include="Scripts\angular\angular-local-storage.min.js" />
@@ -430,7 +435,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Images\Lotes\" />
     <Folder Include="Reportes\FacturaVenta\" />
   </ItemGroup>
   <ItemGroup>

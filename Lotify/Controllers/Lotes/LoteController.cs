@@ -95,23 +95,25 @@ namespace Lotify.Controllers.Lotes
         [HttpPost]
         public ActionResult Create(LoteViewModels model)
         {
+            Random random = new Random();
+            int numero = random.Next(1, 5);
 
-            var validImageTypes = new string[]
-            {
-                "image/gif",
-                "image/jpeg",
-                "image/pjpeg",
-                "image/png",
-            };
+            //var validImageTypes = new string[]
+            //{
+            //    "image/gif",
+            //    "image/jpeg",
+            //    "image/pjpeg",
+            //    "image/png",
+            //};
 
-            if (model.ImageUpload == null || model.ImageUpload.ContentLength == 0)
-            {
-                ModelState.AddModelError("ImageUpload", "Es requerido.");
-            }
-            else if (!validImageTypes.Contains(model.ImageUpload.ContentType))
-            {
-                ModelState.AddModelError("ImageUpload", "Please choose either a GIF, JPG or PNG image.");
-            }
+            //if (model.ImageUpload == null || model.ImageUpload.ContentLength == 0)
+            //{
+            //    ModelState.AddModelError("ImageUpload", "Es requerido.");
+            //}
+            //else if (!validImageTypes.Contains(model.ImageUpload.ContentType))
+            //{
+            //    ModelState.AddModelError("ImageUpload", "Please choose either a GIF, JPG or PNG image.");
+            //}
 
             if (ModelState.IsValid)
             {
@@ -126,33 +128,34 @@ namespace Lotify.Controllers.Lotes
                 Lotes.ManzanaId = model.ManzanaId;
                 Lotes.AreaId = model.AreaId;
                 Lotes.InteresId = model.InteresId;
+                Lotes.ImageUrl = "../../Images/Lotes/lote" + numero + ".png";
 
-                if(model.ImageUpload != null && model.ImageUpload.ContentLength > 0)
-                {
-                    //Invertimos el nombre de la imagen y tomamos la extension de esta
-                    //string extension = Reverse(model.ImageUpload.FileName).Split('.')[0];
-                    //extension = Reverse(extension); //invertimos nuevamente la cadena generada en la linea anterior
-                    //string nameImage;
+                //if(model.ImageUpload != null && model.ImageUpload.ContentLength > 0)
+                //{
+                //    //Invertimos el nombre de la imagen y tomamos la extension de esta
+                //    //string extension = Reverse(model.ImageUpload.FileName).Split('.')[0];
+                //    //extension = Reverse(extension); //invertimos nuevamente la cadena generada en la linea anterior
+                //    //string nameImage;
 
-                    //string time = DateTime.UtcNow.ToString();
-                    //time = time.Replace("/", "_");
-                    //time = time.Replace(" ", "_");
-                    //time = time.Replace(":", "_");
-                    //time = time.Replace(".", "");
+                //    //string time = DateTime.UtcNow.ToString();
+                //    //time = time.Replace("/", "_");
+                //    //time = time.Replace(" ", "_");
+                //    //time = time.Replace(":", "_");
+                //    //time = time.Replace(".", "");
 
-                    //Le damos un nuevo nombre a la imagen, en base al fecha y hora para que no se repitan urls.
-                    //nameImage = time + "." + extension;
+                //    //Le damos un nuevo nombre a la imagen, en base al fecha y hora para que no se repitan urls.
+                //    //nameImage = time + "." + extension;
 
-                    string uploadDir = "~/Images/Lotes/"; //Ruta donde se guardara.
-                    //var imagePath = Path.Combine(Server.MapPath(uploadDir), nameImage);//generamos el path
-                    var imagePath = Path.Combine(Server.MapPath(uploadDir), model.ImageUpload.FileName);
+                //    string uploadDir = "~/Images/Lotes/"; //Ruta donde se guardara.
+                //    //var imagePath = Path.Combine(Server.MapPath(uploadDir), nameImage);//generamos el path
+                //    var imagePath = Path.Combine(Server.MapPath(uploadDir), model.ImageUpload.FileName);
 
-                    //generamos la url a guardar en la base de datos.
-                    var imageUrl = Path.Combine(uploadDir, model.ImageUpload.FileName);
-                    model.ImageUpload.SaveAs(imagePath);//guardamos la imagen.
+                //    //generamos la url a guardar en la base de datos.
+                //    var imageUrl = Path.Combine(uploadDir, model.ImageUpload.FileName);
+                //    model.ImageUpload.SaveAs(imagePath);//guardamos la imagen.
 
-                    Lotes.ImageUrl = imageUrl;//por ultimo la pasamos la url al modelo para ser guardada en la BD.
-                }
+                //    Lotes.ImageUrl = imageUrl;//por ultimo la pasamos la url al modelo para ser guardada en la BD.
+                //}
 
                 dbCtx.Lote.Add(Lotes);
                 dbCtx.SaveChanges();
