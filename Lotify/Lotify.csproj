@@ -190,6 +190,7 @@
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\Lotes\AreaController.cs" />
     <Compile Include="Controllers\Lotes\EstadoLoteController.cs" />
+    <Compile Include="Controllers\Lotes\InteresController.cs" />
     <Compile Include="Controllers\Lotes\LoteController.cs" />
     <Compile Include="Controllers\Lotes\LotificadoraController.cs" />
     <Compile Include="Controllers\Lotes\MedidaController.cs" />
@@ -297,6 +298,7 @@
     <Content Include="Scripts\app\controllers\Empleados\CargoEmpleadoController.js" />
     <Content Include="Scripts\app\controllers\Empleados\EmpleadoController.js" />
     <Content Include="Scripts\app\controllers\Empleados\EstadoEmpleadoController.js" />
+    <Content Include="Scripts\app\controllers\Lotes\InteresController.js" />
     <Content Include="Scripts\app\controllers\Lotes\AreaController.js" />
     <Content Include="Scripts\app\controllers\Lotes\EstadoLoteController.js" />
     <Content Include="Scripts\app\controllers\Lotes\LoteController.js" />
@@ -422,6 +424,9 @@
     <Content Include="Views\Medida\Edit.cshtml" />
     <Content Include="Views\Medida\Index.cshtml" />
     <Content Include="Views\DetalleVenta\Detalle.cshtml" />
+    <Content Include="Views\Interes\Index.cshtml" />
+    <Content Include="Views\Interes\Create.cshtml" />
+    <Content Include="Views\Interes\Edit.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
